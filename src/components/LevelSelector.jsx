@@ -8,7 +8,7 @@ function LevelSelector({ selectedLevel, onLevelChange, characterCounts }) {
 
   return (
     <div className="mb-8">
-      <h2 className="text-lg font-semibold text-gray-700 mb-4">Select HSK Level</h2>
+      <h2 className="text-lg font-semibold text-gray-700 dark:text-gray-300 mb-4">Select HSK Level</h2>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
         {levels.map((level) => (
           <button
@@ -16,8 +16,8 @@ function LevelSelector({ selectedLevel, onLevelChange, characterCounts }) {
             onClick={() => onLevelChange(level.value)}
             className={`p-4 rounded-lg border-2 transition-all ${
               selectedLevel === level.value
-                ? 'border-red-600 bg-red-50 text-red-700'
-                : 'border-gray-300 bg-white hover:border-gray-400 text-gray-700'
+                ? 'border-red-600 bg-red-50 dark:bg-red-900/20 text-red-700 dark:text-red-400'
+                : 'border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 hover:border-gray-400 dark:hover:border-gray-500 text-gray-700 dark:text-gray-300'
             }`}
           >
             <div className="font-semibold">{level.label}</div>

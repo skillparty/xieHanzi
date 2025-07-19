@@ -4,9 +4,10 @@ function CharacterPractice({ character, characters, onCharacterChange }) {
   const canvasRef = useRef(null)
   const [isDrawing, setIsDrawing] = useState(false)
   const [showHint, setShowHint] = useState(false)
-  const [currentIndex, setCurrentIndex] = useState(
-    characters.findIndex(c => c.id === character?.id) || 0
-  )
+  const [currentIndex, setCurrentIndex] = useState(() => {
+    const index = characters.findIndex(c => c.id === character?.id)
+    return index >= 0 ? index : 0
+  })
 
   // Clear canvas
   const clearCanvas = () => {
@@ -113,20 +114,20 @@ function CharacterPractice({ character, characters, onCharacterChange }) {
     <div className="max-w-4xl mx-auto">
       <div className="grid md:grid-cols-2 gap-8">
         {/* Character Info */}
-        <div className="bg-white rounded-lg shadow-md p-6">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
           <div className="mb-4">
-            <span className="inline-block px-3 py-1 bg-red-100 text-red-700 rounded-full text-sm font-semibold">
+            <span className="inline-block px-3 py-1 bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-400 rounded-full text-sm font-semibold">
               HSK {character.level}
             </span>
           </div>
           
           <div className="mb-6">
-            <div className="text-8xl chinese-character text-center mb-4">
+            <div className="text-8xl chinese-character text-center mb-4 text-gray-900 dark:text-gray-100">
               {showHint ? character.simplified : '?'}
             </div>
             <button
               onClick={() => setShowHint(!showHint)}
-              className="w-full py-2 text-sm text-gray-600 hover:text-gray-900 transition-colors"
+              className="w-full py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200 transition-colors"
             >
               {showHint ? 'Hide Character' : 'Show Character'}
             </button>
@@ -134,32 +135,32 @@ function CharacterPractice({ character, characters, onCharacterChange }) {
 
           <div className="space-y-3">
             <div>
-              <span className="text-gray-600">Simplified:</span>
-              <span className="ml-2 text-xl chinese-character">{character.simplified}</span>
+              <span className="text-gray-600 dark:text-gray-400">Simplified:</span>
+              <span className="ml-2 text-xl chinese-character text-gray-900 dark:text-gray-100">{character.simplified}</span>
             </div>
             <div>
-              <span className="text-gray-600">Traditional:</span>
-              <span className="ml-2 text-xl chinese-character">{character.traditional}</span>
+              <span className="text-gray-600 dark:text-gray-400">Traditional:</span>
+              <span className="ml-2 text-xl chinese-character text-gray-900 dark:text-gray-100">{character.traditional}</span>
             </div>
             <div>
-              <span className="text-gray-600">Pinyin:</span>
-              <span className="ml-2 text-lg">{character.pinyin}</span>
+              <span className="text-gray-600 dark:text-gray-400">Pinyin:</span>
+              <span className="ml-2 text-lg text-gray-900 dark:text-gray-100">{character.pinyin}</span>
             </div>
             <div>
-              <span className="text-gray-600">English:</span>
-              <p className="mt-1 text-gray-800">{character.english}</p>
+              <span className="text-gray-600 dark:text-gray-400">English:</span>
+              <p className="mt-1 text-gray-800 dark:text-gray-200">{character.english}</p>
             </div>
           </div>
         </div>
 
         {/* Practice Canvas */}
-        <div className="bg-white rounded-lg shadow-md p-6">
-          <h3 className="text-lg font-semibold mb-4">Practice Writing</h3>
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
+          <h3 className="text-lg font-semibold mb-4 text-gray-900 dark:text-gray-100">Practice Writing</h3>
           
           <div className="mb-4">
             <canvas
               ref={canvasRef}
-              className="border-2 border-gray-300 rounded-lg cursor-crosshair mx-auto"
+              className="border-2 border-gray-300 dark:border-gray-600 rounded-lg cursor-crosshair mx-auto bg-white"
               onMouseDown={startDrawing}
               onMouseMove={draw}
               onMouseUp={stopDrawing}
@@ -188,7 +189,7 @@ function CharacterPractice({ character, characters, onCharacterChange }) {
 
           <button
             onClick={clearCanvas}
-            className="w-full py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 transition-colors"
+            className="w-full py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
           >
             Clear Canvas
           </button>
@@ -199,20 +200,20 @@ function CharacterPractice({ character, characters, onCharacterChange }) {
       <div className="mt-8 flex items-center justify-between">
         <button
           onClick={goToPrevious}
-          className="px-6 py-3 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 transition-colors"
+          className="px-6 py-3 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
         >
           ← Previous
         </button>
         
         <div className="text-center">
-          <span className="text-gray-600">
+          <span className="text-gray-600 dark:text-gray-400">
             Character {currentIndex + 1} of {characters.length}
           </span>
         </div>
         
         <button
           onClick={goToNext}
-          className="px-6 py-3 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 transition-colors"
+          className="px-6 py-3 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
         >
           Next →
         </button>

@@ -3,8 +3,10 @@ import CharacterList from './components/CharacterList'
 import CharacterPractice from './components/CharacterPractice'
 import LevelSelector from './components/LevelSelector'
 import hskCharacters from './data/hskCharacters.json'
+import useDarkMode from './hooks/useDarkMode'
 
 function App() {
+  const { darkMode, toggleDarkMode } = useDarkMode()
   const [selectedLevel, setSelectedLevel] = useState('all')
   const [selectedCharacter, setSelectedCharacter] = useState(null)
   const [viewMode, setViewMode] = useState('list') // 'list' or 'practice'
@@ -15,13 +17,13 @@ function App() {
     : hskCharacters.filter(char => char.level === parseInt(selectedLevel))
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-red-50 to-gray-100">
+    <div className="min-h-screen bg-gradient-to-br from-red-50 to-gray-100 dark:from-gray-900 dark:to-gray-800">
       {/* Header */}
-      <header className="bg-white shadow-sm border-b border-gray-200">
+      <header className="bg-white dark:bg-gray-900 shadow-sm border-b border-gray-200 dark:border-gray-700">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
-              <h1 className="text-2xl font-bold text-gray-900">
+              <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
                 <span className="chinese-character">写汉字</span> xieHanzi
               </h1>
             </div>
@@ -31,7 +33,7 @@ function App() {
                 className={`px-4 py-2 rounded-lg transition-colors ${
                   viewMode === 'list' 
                     ? 'bg-red-600 text-white' 
-                    : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                    : 'bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600'
                 }`}
               >
                 Character List
@@ -41,10 +43,17 @@ function App() {
                 className={`px-4 py-2 rounded-lg transition-colors ${
                   viewMode === 'practice' 
                     ? 'bg-red-600 text-white' 
-                    : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                    : 'bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600'
                 }`}
               >
                 Practice Mode
+              </button>
+              <button
+                onClick={toggleDarkMode}
+                className="px-4 py-2 rounded-lg transition-colors bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600"
+                aria-label="Toggle dark mode"
+              >
+                {darkMode ? '☀️' : '🌙'}
               </button>
             </nav>
           </div>
@@ -83,7 +92,7 @@ function App() {
       </main>
 
       {/* Footer */}
-      <footer className="mt-auto py-6 text-center text-gray-500 text-sm">
+      <footer className="mt-auto py-6 text-center text-gray-500 dark:text-gray-400 text-sm">
         <p>Thanks to the Confucius Institute in Cochabamba, Bolivia</p>
       </footer>
     </div>
