@@ -4,9 +4,12 @@ import CharacterPractice from './components/CharacterPractice'
 import LevelSelector from './components/LevelSelector'
 import hskCharacters from './data/hskCharacters.json'
 import useDarkMode from './hooks/useDarkMode'
+import useProgress from './hooks/useProgress'
+import ProgressStats from './components/ProgressStats'
 
 function App() {
   const { darkMode, toggleDarkMode } = useDarkMode()
+  const { progress, markCharacterPracticed, getCharacterProgress, getStats, resetProgress } = useProgress()
   const [selectedLevel, setSelectedLevel] = useState('all')
   const [selectedCharacter, setSelectedCharacter] = useState(null)
   const [viewMode, setViewMode] = useState('list') // 'list' or 'practice'
@@ -62,6 +65,9 @@ function App() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        {/* Progress Stats */}
+        <ProgressStats stats={getStats()} onReset={resetProgress} />
+        
         {/* Level Selector */}
         <LevelSelector 
           selectedLevel={selectedLevel}
@@ -81,12 +87,15 @@ function App() {
               setSelectedCharacter(char)
               setViewMode('practice')
             }}
+            getCharacterProgress={getCharacterProgress}
           />
         ) : (
           <CharacterPractice 
             character={selectedCharacter || filteredCharacters[0]}
             characters={filteredCharacters}
             onCharacterChange={setSelectedCharacter}
+            markCharacterPracticed={markCharacterPracticed}
+            getCharacterProgress={getCharacterProgress}
           />
         )}
       </main>

@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 
-function CharacterPractice({ character, characters, onCharacterChange }) {
+function CharacterPractice({ character, characters, onCharacterChange, markCharacterPracticed, getCharacterProgress }) {
   const canvasRef = useRef(null)
   const [isDrawing, setIsDrawing] = useState(false)
   const [showHint, setShowHint] = useState(false)
@@ -99,6 +99,15 @@ function CharacterPractice({ character, characters, onCharacterChange }) {
     setIsDrawing(false)
   }
 
+  // Mark character as practiced
+  const handlePracticeComplete = () => {
+    if (character) {
+      markCharacterPracticed(character.id)
+      // Show some feedback
+      clearCanvas()
+    }
+  }
+
   // Navigate characters
   const goToPrevious = () => {
     setCurrentIndex((prev) => (prev > 0 ? prev - 1 : characters.length - 1))
@@ -187,12 +196,38 @@ function CharacterPractice({ character, characters, onCharacterChange }) {
             />
           </div>
 
-          <button
-            onClick={clearCanvas}
-            className="w-full py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
-          >
-            Clear Canvas
-          </button>
+          <div className="space-y-2">
+            <button
+              onClick={clearCanvas}
+              className="w-full py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+            >
+              Clear Canvas
+            </button>
+            <button
+              onClick={handlePracticeComplete}
+              className="w-full py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"
+            >
+              ✓ Mark as Practiced
+            </button>
+          </div>
+          
+          {/* Progress Info */}
+          {character && (() => {
+            const progress = getCharacterProgress(character.id)
+            return (
+              <div className="mt-4 p-3 bg-gray-100 dark:bg-gray-700 rounded-lg">
+                <div className="text-sm text-gray-600 dark:text-gray-300">
+                  <div>Times practiced: <span className="font-semibold">{progress.timesPracticed}</span></div>
+                  <div>Mastery: <span className="font-semibold">{progress.mastery}%</span></div>
+                  {progress.lastPracticed && (
+                    <div>Last practiced: <span className="font-semibold">
+                      {new Date(progress.lastPracticed).toLocaleDateString()}
+                    </span></div>
+                  )}
+                </div>
+              </div>
+            )
+          })()}
         </div>
       </div>
 

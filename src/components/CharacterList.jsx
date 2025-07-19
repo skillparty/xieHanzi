@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-function CharacterList({ characters, onCharacterSelect }) {
+function CharacterList({ characters, onCharacterSelect, getCharacterProgress }) {
   const [searchTerm, setSearchTerm] = useState('')
   
   // Filter characters based on search
@@ -26,33 +26,51 @@ function CharacterList({ characters, onCharacterSelect }) {
 
       {/* Character Grid */}
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
-        {filteredCharacters.map((character) => (
-          <button
-            key={character.id}
-            onClick={() => onCharacterSelect(character)}
-            className="group relative bg-white dark:bg-gray-800 rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 border border-gray-200 dark:border-gray-700 hover:border-red-300 dark:hover:border-red-600"
-          >
-            {/* HSK Level Badge */}
-            <div className="absolute top-2 right-2 text-xs font-semibold px-2 py-1 rounded bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300">
-              HSK {character.level}
-            </div>
-            
-            {/* Character Display */}
-            <div className="text-4xl chinese-character mb-2 text-gray-900 dark:text-gray-100 group-hover:text-red-600 dark:group-hover:text-red-400 transition-colors">
-              {character.simplified}
-            </div>
-            
-            {/* Pinyin */}
-            <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
-              {character.pinyin}
-            </div>
-            
-            {/* English meaning (truncated) */}
-            <div className="text-xs text-gray-500 dark:text-gray-500 line-clamp-2">
-              {character.english}
-            </div>
-          </button>
-        ))}
+        {filteredCharacters.map((character) => {
+          const progress = getCharacterProgress(character.id)
+          const masteryLevel = progress.mastery
+          
+          return (
+            <button
+              key={character.id}
+              onClick={() => onCharacterSelect(character)}
+              className="group relative bg-white dark:bg-gray-800 rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 border border-gray-200 dark:border-gray-700 hover:border-red-300 dark:hover:border-red-600 overflow-hidden"
+            >
+              {/* Progress Bar */}
+              <div className="absolute bottom-0 left-0 w-full h-1 bg-gray-200 dark:bg-gray-700">
+                <div 
+                  className={`h-full transition-all duration-300 ${
+                    masteryLevel === 0 ? 'bg-gray-300' :
+                    masteryLevel < 40 ? 'bg-red-500' :
+                    masteryLevel < 80 ? 'bg-yellow-500' :
+                    'bg-green-500'
+                  }`}
+                  style={{ width: `${masteryLevel}%` }}
+                />
+              </div>
+              
+              {/* HSK Level Badge */}
+              <div className="absolute top-2 right-2 text-xs font-semibold px-2 py-1 rounded bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300">
+                HSK {character.level}
+              </div>
+              
+              {/* Character Display */}
+              <div className="text-4xl chinese-character mb-2 text-gray-900 dark:text-gray-100 group-hover:text-red-600 dark:group-hover:text-red-400 transition-colors">
+                {character.simplified}
+              </div>
+              
+              {/* Pinyin */}
+              <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
+                {character.pinyin}
+              </div>
+              
+              {/* English meaning (truncated) */}
+              <div className="text-xs text-gray-500 dark:text-gray-500 line-clamp-2 mb-2">
+                {character.english}
+              </div>
+            </button>
+          )
+        })}
       </div>
 
       {/* Results count */}
