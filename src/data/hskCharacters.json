@@ -1,0 +1,5114 @@
+[
+  {
+    "id": "hsk1_0",
+    "traditional": "愛",
+    "simplified": "爱",
+    "pinyin": "ài",
+    "english": "love, like, be fond of, be keen on, cherish, be apt to",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_3",
+    "traditional": "白",
+    "simplified": "白",
+    "pinyin": "bái",
+    "english": "white, clear, pure, plain, wrongly written/mispronounced,",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_4",
+    "traditional": "八",
+    "simplified": "八",
+    "pinyin": "bā",
+    "english": "det.: eight",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_6",
+    "traditional": "班",
+    "simplified": "班",
+    "pinyin": "bān",
+    "english": "m.[event]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_7",
+    "traditional": "百",
+    "simplified": "百",
+    "pinyin": "bǎi",
+    "english": "cent, centum, century, hundred, det.: hundred",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_8",
+    "traditional": "吧",
+    "simplified": "吧",
+    "pinyin": "ba",
+    "english": "particle: used to show mild imperative or uncertainty",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_9",
+    "traditional": "半",
+    "simplified": "半",
+    "pinyin": "bàn",
+    "english": "det.: half",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_12",
+    "traditional": "幫",
+    "simplified": "帮",
+    "pinyin": "bāng",
+    "english": "help",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_14",
+    "traditional": "包",
+    "simplified": "包",
+    "pinyin": "bāo",
+    "english": "wrap, surround, encircle, envelop, include, contain, undertake the whole thing, assure, guarantee",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_16",
+    "traditional": "杯",
+    "simplified": "杯",
+    "pinyin": "bēi",
+    "english": "m.[container]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_19",
+    "traditional": "本",
+    "simplified": "本",
+    "pinyin": "běn",
+    "english": "det.: this",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_21",
+    "traditional": "北",
+    "simplified": "北",
+    "pinyin": "běi",
+    "english": "atomic number 97, northward, north, berkelium, Bk, northern",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_23",
+    "traditional": "別",
+    "simplified": "别",
+    "pinyin": "bié",
+    "english": "don't",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_26",
+    "traditional": "病",
+    "simplified": "病",
+    "pinyin": "bìng",
+    "english": "disease",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_28",
+    "traditional": "比",
+    "simplified": "比",
+    "pinyin": "bǐ",
+    "english": "compared with",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_32",
+    "traditional": "菜",
+    "simplified": "菜",
+    "pinyin": "cài",
+    "english": "vegetable, greens, dish, course, food",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_34",
+    "traditional": "差",
+    "simplified": "差",
+    "pinyin": "chà",
+    "english": "be short, lack",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_35",
+    "traditional": "不",
+    "simplified": "不",
+    "pinyin": "bù",
+    "english": "non, do not, no, nowise, not, nope, nae, no more, nix",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_36",
+    "traditional": "茶",
+    "simplified": "茶",
+    "pinyin": "chá",
+    "english": "tea",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_38",
+    "traditional": "常",
+    "simplified": "常",
+    "pinyin": "cháng",
+    "english": "often, usually, frequently",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_39",
+    "traditional": "車",
+    "simplified": "车",
+    "pinyin": "chē",
+    "english": "vehicle",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_43",
+    "traditional": "唱",
+    "simplified": "唱",
+    "pinyin": "chàng",
+    "english": "cry, chant, chirm, tune, vocalize, call, sing",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_44",
+    "traditional": "吃",
+    "simplified": "吃",
+    "pinyin": "chī",
+    "english": "feed, have, be subject to, absorb, chow, live on, eat, have one's meals, be a strain, exhaust, fare,",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_48",
+    "traditional": "齣",
+    "simplified": "出",
+    "pinyin": "chū",
+    "english": "produce, turn out, arise, happen",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_50",
+    "traditional": "床",
+    "simplified": "床",
+    "pinyin": "chuáng",
+    "english": "bed",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_51",
+    "traditional": "次",
+    "simplified": "次",
+    "pinyin": "cì",
+    "english": "order, sequence, next",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_52",
+    "traditional": "穿",
+    "simplified": "穿",
+    "pinyin": "chuān",
+    "english": "to wear, to put on, to dress, to bore through, to pierce, to perforate, to penetrate, to pass throug",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_53",
+    "traditional": "錯",
+    "simplified": "错",
+    "pinyin": "cuò",
+    "english": "wrong, mistaken, bad, poor, confused, complex",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_54",
+    "traditional": "從",
+    "simplified": "从",
+    "pinyin": "cóng",
+    "english": "from, since, through",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_55",
+    "traditional": "打",
+    "simplified": "打",
+    "pinyin": "dǎ",
+    "english": "generalized verb of doing with specific meaning determined by its object, strike, hit, fight, constr",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_61",
+    "traditional": "大",
+    "simplified": "大",
+    "pinyin": "dà",
+    "english": "great, macro, old, very, vast, tall, big, high, much",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_64",
+    "traditional": "到",
+    "simplified": "到",
+    "pinyin": "dào",
+    "english": "up until",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_65",
+    "traditional": "等",
+    "simplified": "等",
+    "pinyin": "děng",
+    "english": "conj.: and so on, etc",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_67",
+    "traditional": "地",
+    "simplified": "地",
+    "pinyin": "de",
+    "english": "the earth, land, soil, fields, ground, place, position, background, distance",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_70",
+    "traditional": "的",
+    "simplified": "的",
+    "pinyin": "de",
+    "english": "particle: emphasizing an action/situation",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_73",
+    "traditional": "第",
+    "simplified": "第",
+    "pinyin": "dì",
+    "english": "mansion, stadium, decker, det.: marker of ordinal numerals, abomasum, residence",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_74",
+    "traditional": "點",
+    "simplified": "点",
+    "pinyin": "diǎn",
+    "english": "m.[proximation]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_76",
+    "traditional": "電",
+    "simplified": "电",
+    "pinyin": "diàn",
+    "english": "electricity",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_83",
+    "traditional": "東",
+    "simplified": "东",
+    "pinyin": "dōng",
+    "english": "east",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_85",
+    "traditional": "動",
+    "simplified": "动",
+    "pinyin": "dòng",
+    "english": "concuss, get moving, travel, go, use, eat or drink, act, arouse, stir, disturb, alter, touch, change",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_87",
+    "traditional": "讀",
+    "simplified": "读",
+    "pinyin": "dú",
+    "english": "study, read, attend school, take, read aloud, read (aloud), peruse",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_88",
+    "traditional": "都",
+    "simplified": "都",
+    "pinyin": "dōu",
+    "english": "all, even, already",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_91",
+    "traditional": "多",
+    "simplified": "多",
+    "pinyin": "duō",
+    "english": "many, much, more, more than the correct/required number, excessive, too much, much/far more",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_94",
+    "traditional": "餓",
+    "simplified": "饿",
+    "pinyin": "è",
+    "english": "starve",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_95",
+    "traditional": "對",
+    "simplified": "对",
+    "pinyin": "duì",
+    "english": "correct, true, toward",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_96",
+    "traditional": "二",
+    "simplified": "二",
+    "pinyin": "èr",
+    "english": "det.: two, second",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_97",
+    "traditional": "飯",
+    "simplified": "饭",
+    "pinyin": "fàn",
+    "english": "food, meal, repast, cooked rice or other cereals, dinner",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_101",
+    "traditional": "放",
+    "simplified": "放",
+    "pinyin": "fàng",
+    "english": "loose, bloom, make longer, set ... free, let sb. have his own way, show, readjust, free, make larger",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_103",
+    "traditional": "飛",
+    "simplified": "飞",
+    "pinyin": "fēi",
+    "english": "hover in the air, flight, hover, volatilize, wing, disappear through volatilization, flutter, skip, ",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_107",
+    "traditional": "分",
+    "simplified": "分",
+    "pinyin": "fēn",
+    "english": "m.[general]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_108",
+    "traditional": "風",
+    "simplified": "风",
+    "pinyin": "fēng",
+    "english": "wind, common practice, custom, general mood, style, news, information",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_109",
+    "traditional": "幹",
+    "simplified": "干",
+    "pinyin": "gàn",
+    "english": "do, work, fight",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_112",
+    "traditional": "高",
+    "simplified": "高",
+    "pinyin": "gāo",
+    "english": "tall, high",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_115",
+    "traditional": "歌",
+    "simplified": "歌",
+    "pinyin": "gē",
+    "english": "song",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_117",
+    "traditional": "個",
+    "simplified": "个",
+    "pinyin": "gè",
+    "english": "piece, item",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_118",
+    "traditional": "給",
+    "simplified": "给",
+    "pinyin": "gěi",
+    "english": "give, give to",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_119",
+    "traditional": "跟",
+    "simplified": "跟",
+    "pinyin": "gēn",
+    "english": "with, to, from",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_122",
+    "traditional": "關",
+    "simplified": "关",
+    "pinyin": "guān",
+    "english": "shut, close, turn off, lock up, close down",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_124",
+    "traditional": "國",
+    "simplified": "国",
+    "pinyin": "guó",
+    "english": "surname Guo, country, nation, state, national, CL:個|个[ge4]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_126",
+    "traditional": "貴",
+    "simplified": "贵",
+    "pinyin": "guì",
+    "english": "expensive, costly, highly valued",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_131",
+    "traditional": "過",
+    "simplified": "过",
+    "pinyin": "guò",
+    "english": "[aspect]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_133",
+    "traditional": "還",
+    "simplified": "还",
+    "pinyin": "hái",
+    "english": "still, yet, also, too, as well, besides",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_135",
+    "traditional": "好",
+    "simplified": "好",
+    "pinyin": "hǎo",
+    "english": "good",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_140",
+    "traditional": "號",
+    "simplified": "号",
+    "pinyin": "hào",
+    "english": "m.[general]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_141",
+    "traditional": "喝",
+    "simplified": "喝",
+    "pinyin": "hē",
+    "english": "drink",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_142",
+    "traditional": "和",
+    "simplified": "和",
+    "pinyin": "hé",
+    "english": "and, with, gentle, peaceful",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_143",
+    "traditional": "很",
+    "simplified": "很",
+    "pinyin": "hěn",
+    "english": "pretty, thrice, monstrously, gey, quite, mighty, stinking, sopping, some, assai, full, most, clinkin",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_144",
+    "traditional": "後",
+    "simplified": "后",
+    "pinyin": "hòu",
+    "english": "rear, back, behind",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_146",
+    "traditional": "話",
+    "simplified": "话",
+    "pinyin": "huà",
+    "english": "words, thing, language, tongue, talk, speech, spoken_language, conversation, utterance, expression, ",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_148",
+    "traditional": "壞",
+    "simplified": "坏",
+    "pinyin": "huài",
+    "english": "spoiled",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_150",
+    "traditional": "回",
+    "simplified": "回",
+    "pinyin": "huí",
+    "english": "return, go back",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_151",
+    "traditional": "花",
+    "simplified": "花",
+    "pinyin": "huā",
+    "english": "spend, expend, cost",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_156",
+    "traditional": "會",
+    "simplified": "会",
+    "pinyin": "huì",
+    "english": "to be able, can, will, to meet",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_161",
+    "traditional": "幾",
+    "simplified": "几",
+    "pinyin": "jǐ",
+    "english": "det.: how many, a few, several, some",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_164",
+    "traditional": "家",
+    "simplified": "家",
+    "pinyin": "jiā",
+    "english": "family, household, home, house",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_165",
+    "traditional": "記",
+    "simplified": "记",
+    "pinyin": "jì",
+    "english": "write down, record",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_168",
+    "traditional": "教",
+    "simplified": "教",
+    "pinyin": "jiào",
+    "english": "teach",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_170",
+    "traditional": "間",
+    "simplified": "间",
+    "pinyin": "jiān",
+    "english": "locality, room",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_171",
+    "traditional": "見",
+    "simplified": "见",
+    "pinyin": "jiàn",
+    "english": "see, be exposed to, become visible, call on, refer to, meet with, appear to be, appear, vide, catch ",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_172",
+    "traditional": "叫",
+    "simplified": "叫",
+    "pinyin": "jiào",
+    "english": "to be called",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_178",
+    "traditional": "進",
+    "simplified": "进",
+    "pinyin": "jìn",
+    "english": "enter, come/go into, advance",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_181",
+    "traditional": "就",
+    "simplified": "就",
+    "pinyin": "jiù",
+    "english": "then, at once, right away, an indicator strengthening speaker's evaluation",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_183",
+    "traditional": "九",
+    "simplified": "九",
+    "pinyin": "jiǔ",
+    "english": "det.: nine",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_184",
+    "traditional": "開",
+    "simplified": "开",
+    "pinyin": "kāi",
+    "english": "open, open up, reclaim (land), open out, come loose, start, begin, operate, turn on (light), run (bu",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_188",
+    "traditional": "看",
+    "simplified": "看",
+    "pinyin": "kàn",
+    "english": "see, look at, watch, read, look upon, regard, look after, call on, visit",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_191",
+    "traditional": "考",
+    "simplified": "考",
+    "pinyin": "kǎo",
+    "english": "study, inspect, give test, inspection, give, give/take test, test, investigate, verify, take test, g",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_194",
+    "traditional": "渴",
+    "simplified": "渴",
+    "pinyin": "kě",
+    "english": "thirsty",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_195",
+    "traditional": "課",
+    "simplified": "课",
+    "pinyin": "kè",
+    "english": "subject, course, class",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_198",
+    "traditional": "口",
+    "simplified": "口",
+    "pinyin": "kǒu",
+    "english": "m.[general]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_199",
+    "traditional": "塊",
+    "simplified": "块",
+    "pinyin": "kuài",
+    "english": "m.[general]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_200",
+    "traditional": "快",
+    "simplified": "快",
+    "pinyin": "kuài",
+    "english": "fast, quick, quick-witted, ingenious, sharp (of knives), straightforward",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_201",
+    "traditional": "來",
+    "simplified": "来",
+    "pinyin": "lái",
+    "english": "to",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_203",
+    "traditional": "老",
+    "simplified": "老",
+    "pinyin": "lǎo",
+    "english": "old, aged;of long standing, outdated, tough, overgrown, dark (of colors)",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_206",
+    "traditional": "了",
+    "simplified": "了",
+    "pinyin": "le",
+    "english": "entirely",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_207",
+    "traditional": "累",
+    "simplified": "累",
+    "pinyin": "lèi",
+    "english": "tire, build by piling up, pile up, strain, weary, toil, accumulate, involve, tired, burthen, work ha",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_208",
+    "traditional": "冷",
+    "simplified": "冷",
+    "pinyin": "lěng",
+    "english": "cool, rare, cold, unfrequented, feel cold, chill, frosty(in manner), shot from hiding, strange",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_209",
+    "traditional": "裏",
+    "simplified": "里",
+    "pinyin": "lǐ",
+    "english": "inside",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_211",
+    "traditional": "兩",
+    "simplified": "两",
+    "pinyin": "liǎng",
+    "english": "det.: two, both (sides), either (side), a few, some",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_212",
+    "traditional": "零",
+    "simplified": "零",
+    "pinyin": "líng",
+    "english": "det.: zero, naught, nil",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_213",
+    "traditional": "六",
+    "simplified": "六",
+    "pinyin": "liù",
+    "english": "det.: six",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_214",
+    "traditional": "樓",
+    "simplified": "楼",
+    "pinyin": "lóu",
+    "english": "storey, Lou, tower, superstructure, storied building, story, floor, Surname, a storied building",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_221",
+    "traditional": "路",
+    "simplified": "路",
+    "pinyin": "lù",
+    "english": "road, path, way, journey, distance, means, sequence, logic, line, region, district, route, sort, gra",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_223",
+    "traditional": "買",
+    "simplified": "买",
+    "pinyin": "mǎi",
+    "english": "pick up, invest, hire, buy, purchase, put_down, trade, get",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_224",
+    "traditional": "嗎",
+    "simplified": "吗",
+    "pinyin": "ma",
+    "english": "particle: calling for agreement or disagreement",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_225",
+    "traditional": "慢",
+    "simplified": "慢",
+    "pinyin": "màn",
+    "english": "tardy, rude, slow down, slow, slow up, retard, lose, defer, supercilious, postpone, decelerate",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_226",
+    "traditional": "忙",
+    "simplified": "忙",
+    "pinyin": "máng",
+    "english": "hurry, hasten",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_227",
+    "traditional": "毛",
+    "simplified": "毛",
+    "pinyin": "máo",
+    "english": "Mao, wool, bristle, nap, pilus, down, feather, mold, mildew, Surname, hair, 1 1 0 th yuan, 1 0 th yu",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_228",
+    "traditional": "沒",
+    "simplified": "没",
+    "pinyin": "méi",
+    "english": "not",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_234",
+    "traditional": "門",
+    "simplified": "门",
+    "pinyin": "mén",
+    "english": "door, gate",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_238",
+    "traditional": "們",
+    "simplified": "们",
+    "pinyin": "men",
+    "english": "pluralizer after pronouns and nouns of persons",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_245",
+    "traditional": "哪",
+    "simplified": "哪",
+    "pinyin": "nǎ",
+    "english": "det.: which",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_249",
+    "traditional": "拿",
+    "simplified": "拿",
+    "pinyin": "ná",
+    "english": "take, hold, seize, capture",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_251",
+    "traditional": "那",
+    "simplified": "那",
+    "pinyin": "nà",
+    "english": "det.: that",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_254",
+    "traditional": "奶",
+    "simplified": "奶",
+    "pinyin": "nǎi",
+    "english": "breasts, milk",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_259",
+    "traditional": "男",
+    "simplified": "男",
+    "pinyin": "nán",
+    "english": "baron, male, man, steady, mankind, male person, boy, chauvinism, creature, son",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_261",
+    "traditional": "南",
+    "simplified": "南",
+    "pinyin": "nán",
+    "english": "Yugoslavia, South, Nan, south, Surname, S, due south, austral, southern",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_264",
+    "traditional": "呢",
+    "simplified": "呢",
+    "pinyin": "ne",
+    "english": "particle: marking quesitons about subject already mentioned; indicating strong affirmation",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_265",
+    "traditional": "難",
+    "simplified": "难",
+    "pinyin": "nán",
+    "english": "make difficulties, take to task, put ... into a difficult position, disagreeable, make difficult, un",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_266",
+    "traditional": "你",
+    "simplified": "你",
+    "pinyin": "nǐ",
+    "english": "you",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_267",
+    "traditional": "能",
+    "simplified": "能",
+    "pinyin": "néng",
+    "english": "can or to be capable of",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_269",
+    "traditional": "您",
+    "simplified": "您",
+    "pinyin": "nín",
+    "english": "you",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_271",
+    "traditional": "女",
+    "simplified": "女",
+    "pinyin": "nǚ",
+    "english": "girl, female, woman, neodymium, hen, daughter, beaver, creature",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_272",
+    "traditional": "年",
+    "simplified": "年",
+    "pinyin": "nián",
+    "english": "year",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_278",
+    "traditional": "跑",
+    "simplified": "跑",
+    "pinyin": "pǎo",
+    "english": "travel, race, be away, escape, course, run errands, skirr, double, walk, be away/off, run away, be o",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_281",
+    "traditional": "票",
+    "simplified": "票",
+    "pinyin": "piào",
+    "english": "ticket, ballot, note",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_282",
+    "traditional": "七",
+    "simplified": "七",
+    "pinyin": "qī",
+    "english": "det.: seven",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_285",
+    "traditional": "起",
+    "simplified": "起",
+    "pinyin": "qǐ",
+    "english": "[aspect]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_287",
+    "traditional": "前",
+    "simplified": "前",
+    "pinyin": "qián",
+    "english": "front",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_289",
+    "traditional": "錢",
+    "simplified": "钱",
+    "pinyin": "qián",
+    "english": "copper coin, cash, money, fund, sum",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_291",
+    "traditional": "請",
+    "simplified": "请",
+    "pinyin": "qǐng",
+    "english": "request, ask (a favor), engage, hire (teacher/etc.), Please...",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_297",
+    "traditional": "球",
+    "simplified": "球",
+    "pinyin": "qiú",
+    "english": "ball",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_299",
+    "traditional": "熱",
+    "simplified": "热",
+    "pinyin": "rè",
+    "english": "hot",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_300",
+    "traditional": "人",
+    "simplified": "人",
+    "pinyin": "rén",
+    "english": "person, people",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_303",
+    "traditional": "去",
+    "simplified": "去",
+    "pinyin": "qù",
+    "english": "to go, to leave, in order to",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_304",
+    "traditional": "日",
+    "simplified": "日",
+    "pinyin": "rì",
+    "english": "m.[standard]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_306",
+    "traditional": "肉",
+    "simplified": "肉",
+    "pinyin": "ròu",
+    "english": "pulp, chilli, cabobs, meat, lobscouse, paella, meaty, fleshy, flesh, marmite",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_307",
+    "traditional": "山",
+    "simplified": "山",
+    "pinyin": "shān",
+    "english": "Shan, jebel, pike, mountain, whitethorn, hump, anything resembling a mountain, gable, kop, chimney, ",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_309",
+    "traditional": "上",
+    "simplified": "上",
+    "pinyin": "shàng",
+    "english": "on, above",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_310",
+    "traditional": "三",
+    "simplified": "三",
+    "pinyin": "sān",
+    "english": "det.: three",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_319",
+    "traditional": "少",
+    "simplified": "少",
+    "pinyin": "shǎo",
+    "english": "lack, be deficient, lose, be missing",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_322",
+    "traditional": "誰",
+    "simplified": "谁",
+    "pinyin": "shéi",
+    "english": "who, someone, anyone",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_326",
+    "traditional": "十",
+    "simplified": "十",
+    "pinyin": "shí",
+    "english": "det.: ten",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_329",
+    "traditional": "事",
+    "simplified": "事",
+    "pinyin": "shì",
+    "english": "responsibility, trouble, event, thing, worry, accident, case, involvement, work, affair, job, concer",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_330",
+    "traditional": "試",
+    "simplified": "试",
+    "pinyin": "shì",
+    "english": "offer, attempt, essay, flesh, try, seek, assay, test",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_333",
+    "traditional": "是",
+    "simplified": "是",
+    "pinyin": "shì",
+    "english": "is, are, am, yes, to be, variant of 是[shi4], (used in given names)",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_335",
+    "traditional": "手",
+    "simplified": "手",
+    "pinyin": "shǒu",
+    "english": "hand",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_337",
+    "traditional": "書",
+    "simplified": "书",
+    "pinyin": "shū",
+    "english": "volume, document, style of calligraphy, book, script, letter",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_339",
+    "traditional": "樹",
+    "simplified": "树",
+    "pinyin": "shù",
+    "english": "wood, Ruptiliocarpon caracolito, tree, arbor, Surname, caracolito",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_340",
+    "traditional": "水",
+    "simplified": "水",
+    "pinyin": "shuǐ",
+    "english": "water, H2O, liquid, bubble, a general term for rivers, lakes, seas, etc., Shiu, waters, aqueous, Aqu",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_342",
+    "traditional": "睡",
+    "simplified": "睡",
+    "pinyin": "shuì",
+    "english": "sleep",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_343",
+    "traditional": "說",
+    "simplified": "说",
+    "pinyin": "shuō",
+    "english": "speak, talk, explain, scold",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_346",
+    "traditional": "送",
+    "simplified": "送",
+    "pinyin": "sòng",
+    "english": "accompaniment, escort, see sb. off, see sb. off/out, to dispatch, see ... off, accompany, to deliver",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_347",
+    "traditional": "四",
+    "simplified": "四",
+    "pinyin": "sì",
+    "english": "det.: four",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_348",
+    "traditional": "嵗",
+    "simplified": "岁",
+    "pinyin": "suì",
+    "english": "year (for crops), m.[standard], , year of age, year (of age), year, annum, year for crops",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_351",
+    "traditional": "她",
+    "simplified": "她",
+    "pinyin": "tā",
+    "english": "she, her, she (neologism for {1ta1}[2]), )",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_353",
+    "traditional": "天",
+    "simplified": "天",
+    "pinyin": "tiān",
+    "english": "m.[standard]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_354",
+    "traditional": "他",
+    "simplified": "他",
+    "pinyin": "tā",
+    "english": "he, she, it, they (referring to inanimate things in object position)",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_355",
+    "traditional": "太",
+    "simplified": "太",
+    "pinyin": "tài",
+    "english": "excessively, too, extremely, very",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_360",
+    "traditional": "聽",
+    "simplified": "听",
+    "pinyin": "tīng",
+    "english": "hear, list, hearken, obey, obedience, listen, heed, administer, let, allow, hark",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_362",
+    "traditional": "外",
+    "simplified": "外",
+    "pinyin": "wài",
+    "english": "outside, in addition, foreign, external",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_367",
+    "traditional": "晚",
+    "simplified": "晚",
+    "pinyin": "wǎn",
+    "english": "far on in time, late",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_374",
+    "traditional": "忘",
+    "simplified": "忘",
+    "pinyin": "wàng",
+    "english": "forget, overlook, neglect",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_375",
+    "traditional": "問",
+    "simplified": "问",
+    "pinyin": "wèn",
+    "english": "ask, examine, question, interrogate",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_377",
+    "traditional": "我",
+    "simplified": "我",
+    "pinyin": "wǒ",
+    "english": "I, me, ego, self",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_378",
+    "traditional": "五",
+    "simplified": "五",
+    "pinyin": "wǔ",
+    "english": "det.: five",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_380",
+    "traditional": "西",
+    "simplified": "西",
+    "pinyin": "xī",
+    "english": "W, Spain, west, occident, due west, western",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_382",
+    "traditional": "洗",
+    "simplified": "洗",
+    "pinyin": "xǐ",
+    "english": "wash, bathe, sack, develop (film), shuffle (cards/etc.)",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_385",
+    "traditional": "下",
+    "simplified": "下",
+    "pinyin": "xià",
+    "english": "under (condition/fact etc.)",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_393",
+    "traditional": "先",
+    "simplified": "先",
+    "pinyin": "xiān",
+    "english": "earlier, in advance, before",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_395",
+    "traditional": "想",
+    "simplified": "想",
+    "pinyin": "xiǎng",
+    "english": "think, suppose, reckon, consider, want to, would like to, feel like (doing sth.)",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_397",
+    "traditional": "小",
+    "simplified": "小",
+    "pinyin": "xiǎo",
+    "english": "small, little, petty, minor;young",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_404",
+    "traditional": "笑",
+    "simplified": "笑",
+    "pinyin": "xiào",
+    "english": "smile, laugh",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_405",
+    "traditional": "寫",
+    "simplified": "写",
+    "pinyin": "xiě",
+    "english": "description, bewrite, direct, describe, pencil, draw, paint, inscribe, write, depiction, write_out, ",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_407",
+    "traditional": "新",
+    "simplified": "新",
+    "pinyin": "xīn",
+    "english": "new, fresh, up-to-date",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_412",
+    "traditional": "行",
+    "simplified": "行",
+    "pinyin": "xíng",
+    "english": "go, travel, prevail, circulate, be current",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_415",
+    "traditional": "學",
+    "simplified": "学",
+    "pinyin": "xué",
+    "english": "study, learn, imitate, mimic",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_419",
+    "traditional": "要",
+    "simplified": "要",
+    "pinyin": "yào",
+    "english": "want, need, must, should",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_421",
+    "traditional": "頁",
+    "simplified": "页",
+    "pinyin": "yè",
+    "english": "page, leaf, m.[general], ,sheet of paper, sheet, piece, piece of paper, folio",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_423",
+    "traditional": "也",
+    "simplified": "也",
+    "pinyin": "yě",
+    "english": "also, too, as well, either, even",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_426",
+    "traditional": "一",
+    "simplified": "一",
+    "pinyin": "yī",
+    "english": "det.: one",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_437",
+    "traditional": "有",
+    "simplified": "有",
+    "pinyin": "yǒu",
+    "english": "have, possess",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_439",
+    "traditional": "用",
+    "simplified": "用",
+    "pinyin": "yòng",
+    "english": "with",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_443",
+    "traditional": "右",
+    "simplified": "右",
+    "pinyin": "yòu",
+    "english": "right side as side of precedence, right side, west, winger, right, the right side, the Right, the ri",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_445",
+    "traditional": "雨",
+    "simplified": "雨",
+    "pinyin": "yǔ",
+    "english": "rain",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_446",
+    "traditional": "元",
+    "simplified": "元",
+    "pinyin": "yuán",
+    "english": "m.[standard]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_447",
+    "traditional": "遠",
+    "simplified": "远",
+    "pinyin": "yuǎn",
+    "english": "far, distant (lit./fig.)",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_448",
+    "traditional": "月",
+    "simplified": "月",
+    "pinyin": "yuè",
+    "english": "moon",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_449",
+    "traditional": "再",
+    "simplified": "再",
+    "pinyin": "zài",
+    "english": "again, once more, further(more), in a higher degree, and then, not (do sth.) before",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_451",
+    "traditional": "在",
+    "simplified": "在",
+    "pinyin": "zài",
+    "english": "in, at, on, etc.",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_453",
+    "traditional": "早",
+    "simplified": "早",
+    "pinyin": "zǎo",
+    "english": "early, long ago, in advance, beforehand, prematurely",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_457",
+    "traditional": "站",
+    "simplified": "站",
+    "pinyin": "zhàn",
+    "english": "to stand",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_458",
+    "traditional": "找",
+    "simplified": "找",
+    "pinyin": "zhǎo",
+    "english": "look for, seek, call on, approach",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_461",
+    "traditional": "這",
+    "simplified": "这",
+    "pinyin": "zhè",
+    "english": "now, this, det.: this, it",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_465",
+    "traditional": "著",
+    "simplified": "着",
+    "pinyin": "zhe",
+    "english": "[aspect]",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_466",
+    "traditional": "真",
+    "simplified": "真",
+    "pinyin": "zhēn",
+    "english": "really, truly, indeed, clearly",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_468",
+    "traditional": "正",
+    "simplified": "正",
+    "pinyin": "zhèng",
+    "english": "precisely, punctually",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_473",
+    "traditional": "中",
+    "simplified": "中",
+    "pinyin": "zhōng",
+    "english": "center, middle, interior",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_479",
+    "traditional": "重",
+    "simplified": "重",
+    "pinyin": "zhòng",
+    "english": "heavy, weighty, important, considerable in amount/value",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_481",
+    "traditional": "住",
+    "simplified": "住",
+    "pinyin": "zhù",
+    "english": "inhabit, cease, stay, visit, shack, dwell, stop, people, live, reside, populate, dig",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_484",
+    "traditional": "字",
+    "simplified": "字",
+    "pinyin": "zì",
+    "english": "graphic symbol, writing, pronunciation (of a word), form of a written character, receipt, printing t",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_485",
+    "traditional": "子",
+    "simplified": "子",
+    "pinyin": "zi",
+    "english": "son, child, seed, egg, small thing, 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_486",
+    "traditional": "走",
+    "simplified": "走",
+    "pinyin": "zǒu",
+    "english": "scram, travel, foot, go away, evaporate, ankle, waltz, step, bugger off, etc., go through, leave, le",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_487",
+    "traditional": "最",
+    "simplified": "最",
+    "pinyin": "zuì",
+    "english": "most, to the highest degree, much, superlatively",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_493",
+    "traditional": "左",
+    "simplified": "左",
+    "pinyin": "zuǒ",
+    "english": "left side, east, the Left",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_494",
+    "traditional": "坐",
+    "simplified": "坐",
+    "pinyin": "zuò",
+    "english": "sit, take seat",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_496",
+    "traditional": "做",
+    "simplified": "做",
+    "pinyin": "zuò",
+    "english": "make, do",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_0",
+    "traditional": "啊",
+    "simplified": "啊",
+    "pinyin": "a",
+    "english": "particle: used in direct address and exclamation; indicating obviousness/impatience/suggestion; used",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_6",
+    "traditional": "辦",
+    "simplified": "办",
+    "pinyin": "bàn",
+    "english": "punish (by law), manage, get ... ready, set_up, buy a fair amount of, set up, run, management, handl",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_12",
+    "traditional": "飽",
+    "simplified": "饱",
+    "pinyin": "bǎo",
+    "english": "to eat till full, satisfied",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_19",
+    "traditional": "筆",
+    "simplified": "笔",
+    "pinyin": "bǐ",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_20",
+    "traditional": "背",
+    "simplified": "背",
+    "pinyin": "bèi",
+    "english": "learn by heart, recite from memory",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_22",
+    "traditional": "邊",
+    "simplified": "边",
+    "pinyin": "biān",
+    "english": "border, boundary",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_23",
+    "traditional": "變",
+    "simplified": "变",
+    "pinyin": "biàn",
+    "english": "change, transform",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_25",
+    "traditional": "遍",
+    "simplified": "遍",
+    "pinyin": "biàn",
+    "english": "m.[activity]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_32",
+    "traditional": "錶",
+    "simplified": "表",
+    "pinyin": "biǎo",
+    "english": "table, form, list",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_46",
+    "traditional": "才",
+    "simplified": "才",
+    "pinyin": "cái",
+    "english": "then and only then, just now, only (before a number)",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_49",
+    "traditional": "層",
+    "simplified": "层",
+    "pinyin": "céng",
+    "english": "m.[proximation]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_50",
+    "traditional": "草",
+    "simplified": "草",
+    "pinyin": "cǎo",
+    "english": "female (of animals), herb, herbage, female, careless, hasty, grass, rough, wort, draft, straw",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_52",
+    "traditional": "長",
+    "simplified": "长",
+    "pinyin": "zhǎng",
+    "english": "long, be strong/good (in/at)",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_53",
+    "traditional": "查",
+    "simplified": "查",
+    "pinyin": "chá",
+    "english": "look into, consult, look up, search, investigate, consultation, audit, examination, investigation, c",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_56",
+    "traditional": "場",
+    "simplified": "场",
+    "pinyin": "chǎng",
+    "english": "m.[event]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_61",
+    "traditional": "稱",
+    "simplified": "称",
+    "pinyin": "chēng",
+    "english": "call",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_66",
+    "traditional": "成",
+    "simplified": "成",
+    "pinyin": "chéng",
+    "english": "become, turn into",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_75",
+    "traditional": "吹",
+    "simplified": "吹",
+    "pinyin": "chuī",
+    "english": "fall through (of plans), wind, fall through, tout, play, gasconade, shoot a line, blow, break up, ch",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_77",
+    "traditional": "船",
+    "simplified": "船",
+    "pinyin": "chuán",
+    "english": "bottom, body, ship, catcher, bow, bark, boat, shipboard, prow, watercraft, craft, drone, vessel, kee",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_80",
+    "traditional": "詞",
+    "simplified": "词",
+    "pinyin": "cí",
+    "english": "vocable, words, phrase, a kind of poetry originating in Tang dyn, statement, a form of classical poe",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_98",
+    "traditional": "帶",
+    "simplified": "带",
+    "pinyin": "dài",
+    "english": "look after, raise",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_102",
+    "traditional": "但",
+    "simplified": "但",
+    "pinyin": "dàn",
+    "english": "conj.: but, yet, still, nevertheless, only, merely",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_104",
+    "traditional": "蛋",
+    "simplified": "蛋",
+    "pinyin": "dàn",
+    "english": "clump, egg, lump, bunch, an egg-shaped thing",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_105",
+    "traditional": "當",
+    "simplified": "当",
+    "pinyin": "dāng",
+    "english": "when, while",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_108",
+    "traditional": "道",
+    "simplified": "道",
+    "pinyin": "dào",
+    "english": "say, speak, talk, think, suppose",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_110",
+    "traditional": "倒",
+    "simplified": "倒",
+    "pinyin": "dào",
+    "english": "actually",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_112",
+    "traditional": "得",
+    "simplified": "得",
+    "pinyin": "de",
+    "english": "should be, need",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_115",
+    "traditional": "等",
+    "simplified": "等",
+    "pinyin": "děng",
+    "english": "conj.: and so on, etc",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_117",
+    "traditional": "燈",
+    "simplified": "灯",
+    "pinyin": "dēng",
+    "english": "blowlamp, lantern, light source, light, lamp, tube, valve, burner",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_118",
+    "traditional": "低",
+    "simplified": "低",
+    "pinyin": "dī",
+    "english": "let droop, hang down, lower",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_123",
+    "traditional": "店",
+    "simplified": "店",
+    "pinyin": "diàn",
+    "english": "shop, store, inn",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_128",
+    "traditional": "掉",
+    "simplified": "掉",
+    "pinyin": "diào",
+    "english": "drop, reduce, exchange, lose, fall behind, be missing, fall, knock, come off, change, shed, turn",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_133",
+    "traditional": "度",
+    "simplified": "度",
+    "pinyin": "dù",
+    "english": "m.[activity]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_135",
+    "traditional": "短",
+    "simplified": "短",
+    "pinyin": "duǎn",
+    "english": "short, brief",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_137",
+    "traditional": "段",
+    "simplified": "段",
+    "pinyin": "duàn",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_138",
+    "traditional": "隊",
+    "simplified": "队",
+    "pinyin": "duì",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_140",
+    "traditional": "懂",
+    "simplified": "懂",
+    "pinyin": "dǒng",
+    "english": "have, comprehend, understanding, understand, compass, grasp, get the picture, glom, know, apprehend,",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_143",
+    "traditional": "多",
+    "simplified": "多",
+    "pinyin": "duō",
+    "english": "many, much, more, more than the correct/required number, excessive, too much, much/far more",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_145",
+    "traditional": "對",
+    "simplified": "对",
+    "pinyin": "duì",
+    "english": "correct, true, toward",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_150",
+    "traditional": "發",
+    "simplified": "发",
+    "pinyin": "fā",
+    "english": "distribute",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_159",
+    "traditional": "分",
+    "simplified": "分",
+    "pinyin": "fēn",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_166",
+    "traditional": "份",
+    "simplified": "份",
+    "pinyin": "fèn",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_167",
+    "traditional": "封",
+    "simplified": "封",
+    "pinyin": "fēng",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_168",
+    "traditional": "改",
+    "simplified": "改",
+    "pinyin": "gǎi",
+    "english": "alteration, rectification, transformation, change, correct, put ... right, transform, rectify, revis",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_170",
+    "traditional": "該",
+    "simplified": "该",
+    "pinyin": "gāi",
+    "english": "det.: this, that",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_176",
+    "traditional": "剛",
+    "simplified": "刚",
+    "pinyin": "gāng",
+    "english": "exactly, only a short while ago, just now, barely, only just, just",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_183",
+    "traditional": "更",
+    "simplified": "更",
+    "pinyin": "gèng",
+    "english": "more, still/even more, further, furthermore",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_193",
+    "traditional": "狗",
+    "simplified": "狗",
+    "pinyin": "gǒu",
+    "english": "dog",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_194",
+    "traditional": "夠",
+    "simplified": "够",
+    "pinyin": "gòu",
+    "english": "be enough/sufficient/adequate",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_206",
+    "traditional": "海",
+    "simplified": "海",
+    "pinyin": "hǎi",
+    "english": "water, foam, bottom, main, huge group of people, Surname, sea catfish, the sea, sea, mare, drink, fi",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_207",
+    "traditional": "過",
+    "simplified": "过",
+    "pinyin": "guò",
+    "english": "[aspect]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_209",
+    "traditional": "好",
+    "simplified": "好",
+    "pinyin": "hǎo",
+    "english": "good",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_210",
+    "traditional": "喊",
+    "simplified": "喊",
+    "pinyin": "hǎn",
+    "english": "cry out, yell",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_218",
+    "traditional": "黑",
+    "simplified": "黑",
+    "pinyin": "hēi",
+    "english": "black, dark, wicked, sinister, vicious, be greedy, extort",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_219",
+    "traditional": "河",
+    "simplified": "河",
+    "pinyin": "hé",
+    "english": "watercourse, stream, Yellow River, fluvial, river, drink",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_221",
+    "traditional": "紅",
+    "simplified": "红",
+    "pinyin": "hóng",
+    "english": "in vogue, famous, redden, red, popular",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_227",
+    "traditional": "花",
+    "simplified": "花",
+    "pinyin": "huā",
+    "english": "spend, expend, cost",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_229",
+    "traditional": "湖",
+    "simplified": "湖",
+    "pinyin": "hú",
+    "english": "water, waterfront, a name referring to the provinces of Hunan and Hub, lacustrine, loch, mere, lake,",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_230",
+    "traditional": "畫",
+    "simplified": "画",
+    "pinyin": "huà",
+    "english": "painting, pictures",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_236",
+    "traditional": "黃",
+    "simplified": "黄",
+    "pinyin": "huáng",
+    "english": "Surname",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_237",
+    "traditional": "換",
+    "simplified": "换",
+    "pinyin": "huàn",
+    "english": "adjourn, barter, exchange, commute, reseat, trade, conversion, convert, change",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_239",
+    "traditional": "回",
+    "simplified": "回",
+    "pinyin": "huí",
+    "english": "return, go back",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_241",
+    "traditional": "會",
+    "simplified": "会",
+    "pinyin": "huì",
+    "english": "to be able, can, will, to meet",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_243",
+    "traditional": "或",
+    "simplified": "或",
+    "pinyin": "huò",
+    "english": "conj.: or, either or",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_245",
+    "traditional": "鷄",
+    "simplified": "鸡",
+    "pinyin": "jī",
+    "english": "capercailzie, Gallus gallus, giblets, chook, horse of the wood, capercaillie, gallinaceous, Tetrao u",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_247",
+    "traditional": "級",
+    "simplified": "级",
+    "pinyin": "jí",
+    "english": "level, rank, grade",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_248",
+    "traditional": "急",
+    "simplified": "急",
+    "pinyin": "jí",
+    "english": "rapid, fast, violent",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_251",
+    "traditional": "加",
+    "simplified": "加",
+    "pinyin": "jiā",
+    "english": "dramatise, plant, embroider, intercalate, lard, put in, blow up, inflict, deliver, aggrandize, plus,",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_253",
+    "traditional": "家",
+    "simplified": "家",
+    "pinyin": "jiā",
+    "english": "family, household, home, house",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_256",
+    "traditional": "假",
+    "simplified": "假",
+    "pinyin": "jiǎ",
+    "english": "false, fake, phony, artificial",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_259",
+    "traditional": "件",
+    "simplified": "件",
+    "pinyin": "jiàn",
+    "english": "correspondence, paper, document, bit, m.[general], , single item, letter, piece",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_261",
+    "traditional": "講",
+    "simplified": "讲",
+    "pinyin": "jiǎng",
+    "english": "discourse, utter, talk, negotiation, make clear, negotiate, parley, pay attention to, speak, syllabl",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_265",
+    "traditional": "交",
+    "simplified": "交",
+    "pinyin": "jiāo",
+    "english": "associate with, make friends, fall in with, mate",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_269",
+    "traditional": "角",
+    "simplified": "角",
+    "pinyin": "jiǎo",
+    "english": "horn, bugle, sth. horn-shaped",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_274",
+    "traditional": "腳",
+    "simplified": "脚",
+    "pinyin": "jiǎo",
+    "english": "foot, leg, base",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_282",
+    "traditional": "街",
+    "simplified": "街",
+    "pinyin": "jiē",
+    "english": "county fair, fair, place, market, toby, street",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_283",
+    "traditional": "節",
+    "simplified": "节",
+    "pinyin": "jié",
+    "english": "m.[event]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_287",
+    "traditional": "斤",
+    "simplified": "斤",
+    "pinyin": "jīn",
+    "english": "m.[standard]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_288",
+    "traditional": "接",
+    "simplified": "接",
+    "pinyin": "jiē",
+    "english": "to receive, to answer (the phone), to meet or welcome sb, to connect, to catch, to join, to extend, ",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_289",
+    "traditional": "借",
+    "simplified": "借",
+    "pinyin": "jiè",
+    "english": "lend",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_295",
+    "traditional": "近",
+    "simplified": "近",
+    "pinyin": "jìn",
+    "english": "almost",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_299",
+    "traditional": "酒",
+    "simplified": "酒",
+    "pinyin": "jiǔ",
+    "english": "libation, bracer, plonk, wine, tipple, poison, pottle, spirits, creature, vin, cup, drink, hooch, ar",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_302",
+    "traditional": "舉",
+    "simplified": "举",
+    "pinyin": "jǔ",
+    "english": "lift, raise, hold up, cite, propose",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_304",
+    "traditional": "卡",
+    "simplified": "卡",
+    "pinyin": "kǎ",
+    "english": "to stop, to block, card, CL:張|张[zhang1],片[pian4], calorie, cassette, (computing) (coll.) slow, to bl",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_306",
+    "traditional": "句",
+    "simplified": "句",
+    "pinyin": "jù",
+    "english": "sentence, m.[general],",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_310",
+    "traditional": "靠",
+    "simplified": "靠",
+    "pinyin": "kào",
+    "english": "depend/rely on",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_312",
+    "traditional": "科",
+    "simplified": "科",
+    "pinyin": "kē",
+    "english": "department, section, rules, laws, a branch of academic or vocational study, stage directions, (anima",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_318",
+    "traditional": "克",
+    "simplified": "克",
+    "pinyin": "kè",
+    "english": "to be able to, to subdue, to restrain, to overcome, gram, variant of 剋|克[ke4], Ke (c. 2000 BC), seve",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_320",
+    "traditional": "刻",
+    "simplified": "刻",
+    "pinyin": "kè",
+    "english": "m.[standard]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_328",
+    "traditional": "哭",
+    "simplified": "哭",
+    "pinyin": "kū",
+    "english": "greet, cry, weep",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_331",
+    "traditional": "拉",
+    "simplified": "拉",
+    "pinyin": "lā",
+    "english": "slit, press-gang, help, solicit, lend a helping hand, canvass, draw, zoom, transport by vehicle, pul",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_332",
+    "traditional": "藍",
+    "simplified": "蓝",
+    "pinyin": "lán",
+    "english": "blue",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_337",
+    "traditional": "離",
+    "simplified": "离",
+    "pinyin": "lí",
+    "english": "distant/apart from",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_338",
+    "traditional": "老",
+    "simplified": "老",
+    "pinyin": "lǎo",
+    "english": "old, aged;of long standing, outdated, tough, overgrown, dark (of colors)",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_346",
+    "traditional": "臉",
+    "simplified": "脸",
+    "pinyin": "liǎn",
+    "english": "map, mug, kisser, puss, visage, snoot, frontispiece, pan, smiler, mazzard, mush, facial, countenance",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_348",
+    "traditional": "練",
+    "simplified": "练",
+    "pinyin": "liàn",
+    "english": "practice, exercise, boil and scour raw silk, educate, reeducate, nurture, coach, hone, drill, school",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_349",
+    "traditional": "涼",
+    "simplified": "凉",
+    "pinyin": "liáng",
+    "english": "cool, cold, discouraged, disappointed",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_351",
+    "traditional": "輛",
+    "simplified": "辆",
+    "pinyin": "liàng",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_352",
+    "traditional": "亮",
+    "simplified": "亮",
+    "pinyin": "liàng",
+    "english": "bright, light, loud and clear",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_354",
+    "traditional": "兩",
+    "simplified": "两",
+    "pinyin": "liǎng",
+    "english": "det.: two, both (sides), either (side), a few, some",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_356",
+    "traditional": "留",
+    "simplified": "留",
+    "pinyin": "liú",
+    "english": "continue, stay, keep, leave behind, leave, grow, accept, (let) grow, leave (sth.), let grow, ask ...",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_359",
+    "traditional": "流",
+    "simplified": "流",
+    "pinyin": "liú",
+    "english": "spread, circulate",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_363",
+    "traditional": "綠",
+    "simplified": "绿",
+    "pinyin": "lǜ",
+    "english": "green",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_366",
+    "traditional": "賣",
+    "simplified": "卖",
+    "pinyin": "mài",
+    "english": "bring, parade, prostitute, make living at, go, sell out, show off, negotiate, exert to the utmost, t",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_369",
+    "traditional": "貓",
+    "simplified": "猫",
+    "pinyin": "māo",
+    "english": "pussycat, puss, malkin, cat, kitty, tabby, felid, feline, true cat, pussy",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_370",
+    "traditional": "米",
+    "simplified": "米",
+    "pinyin": "mǐ",
+    "english": "rice, shelled/husked seed",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_371",
+    "traditional": "面",
+    "simplified": "面",
+    "pinyin": "miàn",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_374",
+    "traditional": "名",
+    "simplified": "名",
+    "pinyin": "míng",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_376",
+    "traditional": "滿",
+    "simplified": "满",
+    "pinyin": "mǎn",
+    "english": "det.: entirely, wholly",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_380",
+    "traditional": "那",
+    "simplified": "那",
+    "pinyin": "nà",
+    "english": "det.: that",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_395",
+    "traditional": "鳥",
+    "simplified": "鸟",
+    "pinyin": "niǎo",
+    "english": "beak, caprimulgiform bird, jay, carinate bird, birdie, bird, carinate, chaffinch, flying bird, fowl",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_396",
+    "traditional": "弄",
+    "simplified": "弄",
+    "pinyin": "nòng",
+    "english": "play with, make, do, handle, engage in, obtain, get, fetch, play tricks",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_399",
+    "traditional": "排",
+    "simplified": "排",
+    "pinyin": "pái",
+    "english": "stand in line, arrange, put in order, sequence",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_401",
+    "traditional": "怕",
+    "simplified": "怕",
+    "pinyin": "pà",
+    "english": "I'm afraid, dread, funk, I suppose, be afraid of, fear",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_403",
+    "traditional": "碰",
+    "simplified": "碰",
+    "pinyin": "pèng",
+    "english": "explore, stub, paw, encounter, knock against, partake, run into, take one's chance, knock, disturb, ",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_404",
+    "traditional": "爬",
+    "simplified": "爬",
+    "pinyin": "pá",
+    "english": "swarm, creep, shin, grabble, crawl, climb, go up, trail, climb up, mount, clamber, scramble",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_407",
+    "traditional": "篇",
+    "simplified": "篇",
+    "pinyin": "piān",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_408",
+    "traditional": "片",
+    "simplified": "片",
+    "pinyin": "piàn",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_411",
+    "traditional": "平",
+    "simplified": "平",
+    "pinyin": "píng",
+    "english": "flat, level, even, ordinary, common, uniform, safe and sound, peaceful, calm, fair, just, objective",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_417",
+    "traditional": "瓶",
+    "simplified": "瓶",
+    "pinyin": "píng",
+    "english": "cruse, flask, vase, bottle, ninepin, jug, jar, pot, ampulla, m.[container],",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_424",
+    "traditional": "氣",
+    "simplified": "气",
+    "pinyin": "qì",
+    "english": "air, gas, smell, atmosphere, spirit",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_425",
+    "traditional": "騎",
+    "simplified": "骑",
+    "pinyin": "qí",
+    "english": "ride/sit astride, ride astride, override, get_onto, sit on the back of, sit, stride, ride_on, ride, ",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_426",
+    "traditional": "千",
+    "simplified": "千",
+    "pinyin": "qiān",
+    "english": "det.: thousand",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_430",
+    "traditional": "墻",
+    "simplified": "墙",
+    "pinyin": "qiáng",
+    "english": "wall",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_432",
+    "traditional": "輕",
+    "simplified": "轻",
+    "pinyin": "qīng",
+    "english": "light, agile, alert, easy, simple, rash, reckless, unimportant, frivolous, slight, neglect",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_437",
+    "traditional": "晴",
+    "simplified": "晴",
+    "pinyin": "qíng",
+    "english": "clear, fine (weather)",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_440",
+    "traditional": "求",
+    "simplified": "求",
+    "pinyin": "qiú",
+    "english": "seek, try, strive for",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_442",
+    "traditional": "取",
+    "simplified": "取",
+    "pinyin": "qǔ",
+    "english": "have, withdraw, choose, assume, take away, adopt, assumption, select, draw_out, withdrawal, obtain, ",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_445",
+    "traditional": "全",
+    "simplified": "全",
+    "pinyin": "quán",
+    "english": "det.: all, Surname, whole, Quan",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_454",
+    "traditional": "讓",
+    "simplified": "让",
+    "pinyin": "ràng",
+    "english": "allow, induce sb. to do sth.",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_471",
+    "traditional": "生",
+    "simplified": "生",
+    "pinyin": "shēng",
+    "english": "give birth to, bear, grow, get, have, cause to happen, make (a fire), exist, live",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_478",
+    "traditional": "省",
+    "simplified": "省",
+    "pinyin": "shěng",
+    "english": "to save, to economize, to do without, to omit, to leave out, province, CL:個|个[ge4], to inspect, to e",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_484",
+    "traditional": "市",
+    "simplified": "市",
+    "pinyin": "shì",
+    "english": "market, city, CL:個|个[ge4]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_491",
+    "traditional": "熟",
+    "simplified": "熟",
+    "pinyin": "shú",
+    "english": "ripe, cooked, done, deep (sleep, thoughts, etc.)",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_492",
+    "traditional": "收",
+    "simplified": "收",
+    "pinyin": "shōu",
+    "english": "receive, accept, take in/back, gather in, conclude, stop",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_499",
+    "traditional": "數",
+    "simplified": "数",
+    "pinyin": "shù",
+    "english": "det.: several",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_500",
+    "traditional": "算",
+    "simplified": "算",
+    "pinyin": "suàn",
+    "english": "consider, regard/count as",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_507",
+    "traditional": "它",
+    "simplified": "它",
+    "pinyin": "tā",
+    "english": "they (neologism for {1ta1}[3] [4]), [4]), ), this, that, it",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_513",
+    "traditional": "套",
+    "simplified": "套",
+    "pinyin": "tào",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_515",
+    "traditional": "疼",
+    "simplified": "疼",
+    "pinyin": "téng",
+    "english": "(it) hurts, sore, to love dearly",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_516",
+    "traditional": "提",
+    "simplified": "提",
+    "pinyin": "tí",
+    "english": "mention, refer to, promote, bring up",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_522",
+    "traditional": "題",
+    "simplified": "题",
+    "pinyin": "tí",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_526",
+    "traditional": "條",
+    "simplified": "条",
+    "pinyin": "tiáo",
+    "english": "bar, item, short note, a long narrow piece, streak, clause, stripe, sth. long and narrow, filet, m.[",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_531",
+    "traditional": "停",
+    "simplified": "停",
+    "pinyin": "tíng",
+    "english": "stay, cease, put_off, cessation, stop, switch off, cheese, stop over, cut off, halt, turn off, lie a",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_532",
+    "traditional": "挺",
+    "simplified": "挺",
+    "pinyin": "tǐng",
+    "english": "very, rather, quite",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_534",
+    "traditional": "通",
+    "simplified": "通",
+    "pinyin": "tōng",
+    "english": "m.[event]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_541",
+    "traditional": "頭",
+    "simplified": "头",
+    "pinyin": "tóu",
+    "english": "head, hair (style), top/end of sth., chief",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_544",
+    "traditional": "腿",
+    "simplified": "腿",
+    "pinyin": "tuǐ",
+    "english": "ham, a leg-like support, underpinning, thigh, gamb, shank, supporter, leg",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_546",
+    "traditional": "完",
+    "simplified": "完",
+    "pinyin": "wán",
+    "english": "exhaust, run_out, wipe_out, run out, pay, complete, completion, finish, be through, be over, use_up,",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_550",
+    "traditional": "推",
+    "simplified": "推",
+    "pinyin": "tuī",
+    "english": "push, decline, refuse, reject, put off, postpone, delay",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_555",
+    "traditional": "碗",
+    "simplified": "碗",
+    "pinyin": "wǎn",
+    "english": "m.[container]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_556",
+    "traditional": "網",
+    "simplified": "网",
+    "pinyin": "wǎng",
+    "english": "net",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_557",
+    "traditional": "萬",
+    "simplified": "万",
+    "pinyin": "wàn",
+    "english": "det.: ten thousand, myriad, multitudinous",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_560",
+    "traditional": "往",
+    "simplified": "往",
+    "pinyin": "wǎng",
+    "english": "go toward",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_562",
+    "traditional": "為",
+    "simplified": "为",
+    "pinyin": "wèi",
+    "english": "by",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_563",
+    "traditional": "位",
+    "simplified": "位",
+    "pinyin": "wèi",
+    "english": "location, digit, m.[general], , status, figure, throne, position, place, condition",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_565",
+    "traditional": "喂",
+    "simplified": "喂",
+    "pinyin": "wèi",
+    "english": "hello, hey",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_566",
+    "traditional": "聞",
+    "simplified": "闻",
+    "pinyin": "wén",
+    "english": "smell",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_579",
+    "traditional": "下",
+    "simplified": "下",
+    "pinyin": "xià",
+    "english": "under (condition/fact etc.)",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_589",
+    "traditional": "嚮",
+    "simplified": "向",
+    "pinyin": "xiàng",
+    "english": "to, towards",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_591",
+    "traditional": "響",
+    "simplified": "响",
+    "pinyin": "xiǎng",
+    "english": "make a sound",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_592",
+    "traditional": "像",
+    "simplified": "像",
+    "pinyin": "xiàng",
+    "english": "be like",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_597",
+    "traditional": "小",
+    "simplified": "小",
+    "pinyin": "xiǎo",
+    "english": "small, little, petty, minor;young",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_605",
+    "traditional": "鞋",
+    "simplified": "鞋",
+    "pinyin": "xié",
+    "english": "shoe, variant of 鞋[xie2]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_607",
+    "traditional": "信",
+    "simplified": "信",
+    "pinyin": "xìn",
+    "english": "letter, mail, message",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_616",
+    "traditional": "姓",
+    "simplified": "姓",
+    "pinyin": "xìng",
+    "english": "name",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_622",
+    "traditional": "選",
+    "simplified": "选",
+    "pinyin": "xuǎn",
+    "english": "select, pick, elect, choose, take, pick out, van",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_624",
+    "traditional": "雪",
+    "simplified": "雪",
+    "pinyin": "xuě",
+    "english": "snow",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_626",
+    "traditional": "眼",
+    "simplified": "眼",
+    "pinyin": "yǎn",
+    "english": "eye, small hole, aperture, salient/weighted point, salient/weighted point",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_627",
+    "traditional": "養",
+    "simplified": "养",
+    "pinyin": "yǎng",
+    "english": "keep in good repair, keep, cultivate, cultivation, form, maintenance, foster, give birth to, convale",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_631",
+    "traditional": "藥",
+    "simplified": "药",
+    "pinyin": "yào",
+    "english": "healer, medicine, certain chemicals, drug, medicament, medicinal drug, aspirin, medication, remedy, ",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_634",
+    "traditional": "夜",
+    "simplified": "夜",
+    "pinyin": "yè",
+    "english": "night",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_654",
+    "traditional": "億",
+    "simplified": "亿",
+    "pinyin": "yì",
+    "english": "det.: hundred million",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_669",
+    "traditional": "陰",
+    "simplified": "阴",
+    "pinyin": "yīn",
+    "english": "overcast (weather), cloudy, shady, Yin (the negative principle of Yin and Yang), negative (electric.",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_671",
+    "traditional": "油",
+    "simplified": "油",
+    "pinyin": "yóu",
+    "english": "oil, fat, grease",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_680",
+    "traditional": "又",
+    "simplified": "又",
+    "pinyin": "yòu",
+    "english": "again, moreover",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_683",
+    "traditional": "魚",
+    "simplified": "鱼",
+    "pinyin": "yú",
+    "english": "paella, variegated carp, gudgeon, bighead, Yu, Surname, Argonaut, salmon, fish, catfish",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_685",
+    "traditional": "院",
+    "simplified": "院",
+    "pinyin": "yuàn",
+    "english": "public facility, college, courtyard, designation for certain government offices and pub, hospital, c",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_690",
+    "traditional": "越",
+    "simplified": "越",
+    "pinyin": "yuè",
+    "english": "~A~B) the more A the more B",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_692",
+    "traditional": "雲",
+    "simplified": "云",
+    "pinyin": "yún",
+    "english": "cloud",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_694",
+    "traditional": "咱",
+    "simplified": "咱",
+    "pinyin": "zán",
+    "english": "I or me we (including both the speaker and the person spoken to) variant of 咱[zan2], see 咱[zan2]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_695",
+    "traditional": "臟",
+    "simplified": "脏",
+    "pinyin": "zàng",
+    "english": "dirty, squalid, smudge, filthy, smutch, blur, smear",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_703",
+    "traditional": "占",
+    "simplified": "占",
+    "pinyin": "zhàn",
+    "english": "constitute, make up, account for",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_706",
+    "traditional": "站",
+    "simplified": "站",
+    "pinyin": "zhàn",
+    "english": "to stand",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_718",
+    "traditional": "只",
+    "simplified": "只",
+    "pinyin": "zhǐ",
+    "english": "only, merely",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_722",
+    "traditional": "紙",
+    "simplified": "纸",
+    "pinyin": "zhǐ",
+    "english": "paper",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_731",
+    "traditional": "周",
+    "simplified": "周",
+    "pinyin": "zhōu",
+    "english": "Surname",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_739",
+    "traditional": "裝",
+    "simplified": "装",
+    "pinyin": "zhuāng",
+    "english": "install, fit, assemble, load, pack, hold",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_746",
+    "traditional": "租",
+    "simplified": "租",
+    "pinyin": "zū",
+    "english": "rent out",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_747",
+    "traditional": "組",
+    "simplified": "组",
+    "pinyin": "zǔ",
+    "english": "m.[general]",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_751",
+    "traditional": "嘴",
+    "simplified": "嘴",
+    "pinyin": "zuǐ",
+    "english": "spigot, mug, rattletrap, kisser, trap, puss, visage, spile, nib, smiler, beak, countenance, snout, p",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk2_757",
+    "traditional": "座",
+    "simplified": "座",
+    "pinyin": "zuò",
+    "english": "fare, stand, base, constellation, footstall, pedestal, m.[general], , customer, Aquarius, seating, p",
+    "level": 2,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_4",
+    "traditional": "按",
+    "simplified": "按",
+    "pinyin": "àn",
+    "english": "according to, in accordance with",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_6",
+    "traditional": "把",
+    "simplified": "把",
+    "pinyin": "bǎ",
+    "english": "indicating pre-verbal object as thing dealt with by the action",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_8",
+    "traditional": "搬",
+    "simplified": "搬",
+    "pinyin": "bān",
+    "english": "copy mechanically, remove, apply indiscriminately, take away, transfer, move, move (house)",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_9",
+    "traditional": "白",
+    "simplified": "白",
+    "pinyin": "bái",
+    "english": "white, clear, pure, plain, wrongly written/mispronounced,",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_13",
+    "traditional": "板",
+    "simplified": "板",
+    "pinyin": "bǎn",
+    "english": "see 老闆|老板, boss, to catch sight of in a doorway (old)",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_17",
+    "traditional": "保",
+    "simplified": "保",
+    "pinyin": "bǎo",
+    "english": "keep, maintenance, preserve soil moisture, stand guarantor, defend, protection, ensure, stand guaran",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_23",
+    "traditional": "背",
+    "simplified": "背",
+    "pinyin": "bèi",
+    "english": "learn by heart, recite from memory",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_26",
+    "traditional": "報",
+    "simplified": "报",
+    "pinyin": "bào",
+    "english": "newspaper, periodical, bulletin, telegram",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_31",
+    "traditional": "被",
+    "simplified": "被",
+    "pinyin": "bèi",
+    "english": "by",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_53",
+    "traditional": "并",
+    "simplified": "并",
+    "pinyin": "bìng",
+    "english": "to be side by side, simultaneously, and",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_55",
+    "traditional": "補",
+    "simplified": "补",
+    "pinyin": "bǔ",
+    "english": "mend, patch, nourish, supplementary",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_62",
+    "traditional": "布",
+    "simplified": "布",
+    "pinyin": "bù",
+    "english": "cloth",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_63",
+    "traditional": "步",
+    "simplified": "步",
+    "pinyin": "bù",
+    "english": "m.[activity]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_65",
+    "traditional": "部",
+    "simplified": "部",
+    "pinyin": "bù",
+    "english": "m.[general]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_75",
+    "traditional": "厰",
+    "simplified": "厂",
+    "pinyin": "chǎng",
+    "english": "factory, mill, plant, works, yard, depot",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_79",
+    "traditional": "朝",
+    "simplified": "朝",
+    "pinyin": "cháo",
+    "english": "abbr. for 朝鮮|朝鲜[Chao2 xian3] Korea, imperial or royal court, government, dynasty, reign of a soverei",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_80",
+    "traditional": "吵",
+    "simplified": "吵",
+    "pinyin": "chǎo",
+    "english": "shout for something",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_93",
+    "traditional": "城",
+    "simplified": "城",
+    "pinyin": "chéng",
+    "english": "wall, city wall, city, kasbah, town, township, burgh, castle, burg",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_97",
+    "traditional": "初",
+    "simplified": "初",
+    "pinyin": "chū",
+    "english": "at the beginning of, in the early part of",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_101",
+    "traditional": "重",
+    "simplified": "重",
+    "pinyin": "zhòng",
+    "english": "heavy, weighty, important, considerable in amount/value",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_105",
+    "traditional": "傳",
+    "simplified": "传",
+    "pinyin": "chuán",
+    "english": "pass (on), hand down, impart, teach, spread, transmit",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_116",
+    "traditional": "存",
+    "simplified": "存",
+    "pinyin": "cún",
+    "english": "harbour, keep, deposit (money), gather, harbor, cherish, accumulate, existence, live, leave with, re",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_117",
+    "traditional": "村",
+    "simplified": "村",
+    "pinyin": "cūn",
+    "english": "village, variant of 村[cun1]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_126",
+    "traditional": "代",
+    "simplified": "代",
+    "pinyin": "dài",
+    "english": "period, generation",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_137",
+    "traditional": "刀",
+    "simplified": "刀",
+    "pinyin": "dāo",
+    "english": "knife, sword, blade, sth. shaped like a knife",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_148",
+    "traditional": "調",
+    "simplified": "调",
+    "pinyin": "diào",
+    "english": "to transfer, to move (troops or cadres), to investigate, to enquire into, accent, view, argument, ke",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_151",
+    "traditional": "訂",
+    "simplified": "订",
+    "pinyin": "dìng",
+    "english": "subscribe to, agree on, revise, draw up, staple together, book (seats), conclude, order, book, subsc",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_159",
+    "traditional": "斷",
+    "simplified": "断",
+    "pinyin": "duàn",
+    "english": "give up, cut off, break off, stop, abstain from, judge, snap, break, decide",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_167",
+    "traditional": "頓",
+    "simplified": "顿",
+    "pinyin": "dùn",
+    "english": "m.[event]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_181",
+    "traditional": "防",
+    "simplified": "防",
+    "pinyin": "fáng",
+    "english": "guard against, guard, prevent, prepare against, defence, resistance, guard/prepare against, resist, ",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_188",
+    "traditional": "費",
+    "simplified": "费",
+    "pinyin": "fèi",
+    "english": "cost, spend, expend",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_201",
+    "traditional": "福",
+    "simplified": "福",
+    "pinyin": "fú",
+    "english": "felicity, happiness, blessing, good fortune",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_205",
+    "traditional": "付",
+    "simplified": "付",
+    "pinyin": "fù",
+    "english": "hand/turn over to, commit to, pay",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_208",
+    "traditional": "富",
+    "simplified": "富",
+    "pinyin": "fù",
+    "english": "be rich in, be full of",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_211",
+    "traditional": "趕",
+    "simplified": "赶",
+    "pinyin": "gǎn",
+    "english": "run after, pursue",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_215",
+    "traditional": "敢",
+    "simplified": "敢",
+    "pinyin": "gǎn",
+    "english": "dare, make bold, have courage to, be sure, have confidence to, venture, have the confidence to, be c",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_226",
+    "traditional": "各",
+    "simplified": "各",
+    "pinyin": "gè",
+    "english": "det.: each, every",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_252",
+    "traditional": "古",
+    "simplified": "古",
+    "pinyin": "gǔ",
+    "english": "ancient, age-old;not following current customs/practice",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_258",
+    "traditional": "掛",
+    "simplified": "挂",
+    "pinyin": "guà",
+    "english": "hang, put up, hitch, ring up",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_265",
+    "traditional": "管",
+    "simplified": "管",
+    "pinyin": "guǎn",
+    "english": "run, manage, administer, have charge of, subject to discipline, bother about",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_266",
+    "traditional": "光",
+    "simplified": "光",
+    "pinyin": "guāng",
+    "english": "light, ray, brightness, honor, glory, luster",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_280",
+    "traditional": "行",
+    "simplified": "行",
+    "pinyin": "xíng",
+    "english": "go, travel, prevail, circulate, be current",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_282",
+    "traditional": "合",
+    "simplified": "合",
+    "pinyin": "hé",
+    "english": "be equal to, amount to",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_297",
+    "traditional": "化",
+    "simplified": "化",
+    "pinyin": "huà",
+    "english": "melt, dissolve, thaw, digest, remove, burn up, incinerate, disguise",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_300",
+    "traditional": "環",
+    "simplified": "环",
+    "pinyin": "huán",
+    "english": "ring, link",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_306",
+    "traditional": "火",
+    "simplified": "火",
+    "pinyin": "huǒ",
+    "english": "fire;internal heat, anger, temper;firearms, ammunition",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_307",
+    "traditional": "活",
+    "simplified": "活",
+    "pinyin": "huó",
+    "english": "alive, live, vivid, save (sb.'s life), activate, save, be",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_333",
+    "traditional": "架",
+    "simplified": "架",
+    "pinyin": "jià",
+    "english": "m.[general]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_339",
+    "traditional": "建",
+    "simplified": "建",
+    "pinyin": "jiàn",
+    "english": "establishment, erection, build, proposal, propose, set up, establish, found, advocate, erect, constr",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_353",
+    "traditional": "較",
+    "simplified": "较",
+    "pinyin": "jiào",
+    "english": "rather, quite, relatively, more",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_359",
+    "traditional": "叫",
+    "simplified": "叫",
+    "pinyin": "jiào",
+    "english": "to be called",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_364",
+    "traditional": "金",
+    "simplified": "金",
+    "pinyin": "jīn",
+    "english": "metals, gold, money, ancient metal percussion instruments",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_367",
+    "traditional": "僅",
+    "simplified": "仅",
+    "pinyin": "jǐn",
+    "english": "scantily, simply, alone, merely, barely, only, but, just",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_370",
+    "traditional": "緊",
+    "simplified": "紧",
+    "pinyin": "jǐn",
+    "english": "tighten, tight, hard up, strict, urgent, tense, taut, stringent",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_385",
+    "traditional": "靜",
+    "simplified": "静",
+    "pinyin": "jìng",
+    "english": "still, quiet, calm",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_386",
+    "traditional": "久",
+    "simplified": "久",
+    "pinyin": "jiǔ",
+    "english": "for long time, of specified duration",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_388",
+    "traditional": "救",
+    "simplified": "救",
+    "pinyin": "jiù",
+    "english": "relief, relieve, help, salve, salvage, rescue, save, succour",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_391",
+    "traditional": "舊",
+    "simplified": "旧",
+    "pinyin": "jiù",
+    "english": "old, aged, onetime, bygone, used, worn, past, former",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_414",
+    "traditional": "空",
+    "simplified": "空",
+    "pinyin": "kōng",
+    "english": "free, with spare time",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_420",
+    "traditional": "困",
+    "simplified": "困",
+    "pinyin": "kùn",
+    "english": "sleepy, tired",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_428",
+    "traditional": "樂",
+    "simplified": "乐",
+    "pinyin": "lè",
+    "english": "happy, cheerful, be glad to, enjoy, be amused",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_433",
+    "traditional": "類",
+    "simplified": "类",
+    "pinyin": "lèi",
+    "english": "m.[kind]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_439",
+    "traditional": "力",
+    "simplified": "力",
+    "pinyin": "lì",
+    "english": "power, strength, ability, force, physical strength",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_441",
+    "traditional": "連",
+    "simplified": "连",
+    "pinyin": "lián",
+    "english": "conj.: including",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_450",
+    "traditional": "了",
+    "simplified": "了",
+    "pinyin": "le",
+    "english": "entirely",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_451",
+    "traditional": "領",
+    "simplified": "领",
+    "pinyin": "lǐng",
+    "english": "receive, draw, get, have jurisdiction over, be in possession of",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_456",
+    "traditional": "龍",
+    "simplified": "龙",
+    "pinyin": "lóng",
+    "english": "dragon, dinosaur",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_458",
+    "traditional": "錄",
+    "simplified": "录",
+    "pinyin": "lù",
+    "english": "surname Lu, diary, record, to hit, to copy",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_467",
+    "traditional": "亂",
+    "simplified": "乱",
+    "pinyin": "luàn",
+    "english": "indiscriminate, riot, mix up, arbitrary, confused, throw into diorder, confuse, jumble, confusion, r",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_469",
+    "traditional": "馬",
+    "simplified": "马",
+    "pinyin": "mǎ",
+    "english": "horse",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_470",
+    "traditional": "毛",
+    "simplified": "毛",
+    "pinyin": "máo",
+    "english": "Mao, wool, bristle, nap, pilus, down, feather, mold, mildew, Surname, hair, 1 1 0 th yuan, 1 0 th yu",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_473",
+    "traditional": "每",
+    "simplified": "每",
+    "pinyin": "měi",
+    "english": "det.: every",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_475",
+    "traditional": "美",
+    "simplified": "美",
+    "pinyin": "měi",
+    "english": "beautiful, pretty",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_480",
+    "traditional": "米",
+    "simplified": "米",
+    "pinyin": "mǐ",
+    "english": "rice, shelled/husked seed",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_483",
+    "traditional": "迷",
+    "simplified": "迷",
+    "pinyin": "mí",
+    "english": "to bewilder, crazy about, fan, enthusiast, lost, confused",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_490",
+    "traditional": "某",
+    "simplified": "某",
+    "pinyin": "mǒu",
+    "english": "det.: some, certain",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_501",
+    "traditional": "內",
+    "simplified": "内",
+    "pinyin": "nèi",
+    "english": "inside",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_508",
+    "traditional": "念",
+    "simplified": "念",
+    "pinyin": "niàn",
+    "english": "study, read, attend school, think_of, read aloud, think of, miss",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_511",
+    "traditional": "牛",
+    "simplified": "牛",
+    "pinyin": "niú",
+    "english": "ox, cattle, cow",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_516",
+    "traditional": "怕",
+    "simplified": "怕",
+    "pinyin": "pà",
+    "english": "I'm afraid, dread, funk, I suppose, be afraid of, fear",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_517",
+    "traditional": "拍",
+    "simplified": "拍",
+    "pinyin": "pāi",
+    "english": "clap, pat, lick sb.'s boots",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_518",
+    "traditional": "排",
+    "simplified": "排",
+    "pinyin": "pái",
+    "english": "stand in line, arrange, put in order, sequence",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_521",
+    "traditional": "派",
+    "simplified": "派",
+    "pinyin": "pài",
+    "english": "send, dispatch, assign, appoint",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_525",
+    "traditional": "胖",
+    "simplified": "胖",
+    "pinyin": "pàng",
+    "english": "fat, stout, plump",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_526",
+    "traditional": "配",
+    "simplified": "配",
+    "pinyin": "pèi",
+    "english": "match, find sth. to fit/replace sth. else, deserve, be worthy of, be qualified, compound, mix",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_529",
+    "traditional": "皮",
+    "simplified": "皮",
+    "pinyin": "pí",
+    "english": "skin, leather, hide, wrapper, surface, thin/flat pieces/sheets, rubber",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_538",
+    "traditional": "期",
+    "simplified": "期",
+    "pinyin": "qī",
+    "english": "m.[event]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_539",
+    "traditional": "破",
+    "simplified": "破",
+    "pinyin": "pò",
+    "english": "tear, split up, defeat, expose, eradicate, lay bare, cleave, expose the truth of, worn-out, break wi",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_540",
+    "traditional": "齊",
+    "simplified": "齐",
+    "pinyin": "qí",
+    "english": "complete, prepared, together",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_550",
+    "traditional": "強",
+    "simplified": "强",
+    "pinyin": "qiáng",
+    "english": "strong, powerful, vigorous, better, slightly more than, plus",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_554",
+    "traditional": "巧",
+    "simplified": "巧",
+    "pinyin": "qiǎo",
+    "english": "clever, intelligent, skillful, ingenious, artful, deceiving, pretty, cute, opportune, fortuitous, co",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_555",
+    "traditional": "橋",
+    "simplified": "桥",
+    "pinyin": "qiáo",
+    "english": "backbend, fret, span, pons, pier arch, bridge, spar",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_558",
+    "traditional": "親",
+    "simplified": "亲",
+    "pinyin": "qīn",
+    "english": "parent, one's own (flesh and blood), relative, related, marriage, bride, close, intimate, in person,",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_566",
+    "traditional": "區",
+    "simplified": "区",
+    "pinyin": "qū",
+    "english": "surname Ou, area, region, district, small, distinguish, CL:個|个[ge4]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_574",
+    "traditional": "缺",
+    "simplified": "缺",
+    "pinyin": "quē",
+    "english": "be short of, lack",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_577",
+    "traditional": "群",
+    "simplified": "群",
+    "pinyin": "qún",
+    "english": "m.[general]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_593",
+    "traditional": "任",
+    "simplified": "任",
+    "pinyin": "rèn",
+    "english": "serve in a position, appoint to a position",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_596",
+    "traditional": "仍",
+    "simplified": "仍",
+    "pinyin": "réng",
+    "english": "yet, anyway, still",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_604",
+    "traditional": "傷",
+    "simplified": "伤",
+    "pinyin": "shāng",
+    "english": "injure, wound, fall ill from, damage, harm",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_619",
+    "traditional": "深",
+    "simplified": "深",
+    "pinyin": "shēn",
+    "english": "deepen, penetrating, profound, deep, dark",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_623",
+    "traditional": "升",
+    "simplified": "升",
+    "pinyin": "shēng",
+    "english": "litre, raise variant of 升[sheng1]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_628",
+    "traditional": "生",
+    "simplified": "生",
+    "pinyin": "shēng",
+    "english": "give birth to, bear, grow, get, have, cause to happen, make (a fire), exist, live",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_630",
+    "traditional": "勝",
+    "simplified": "胜",
+    "pinyin": "shèng",
+    "english": "be superior to, surpass, succeed, win victory, be victorious, get the better of, can bear, carry, ex",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_634",
+    "traditional": "時",
+    "simplified": "时",
+    "pinyin": "shí",
+    "english": "time (when), period, hour",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_645",
+    "traditional": "使",
+    "simplified": "使",
+    "pinyin": "shǐ",
+    "english": "rarefy, piss_off, germinate, drench, blow_out, leave, cut_up, refract, run, dress_up, compose, shed,",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_662",
+    "traditional": "室",
+    "simplified": "室",
+    "pinyin": "shì",
+    "english": "surname Shi, room, work unit, grave, scabbard, family or clan, one of the 28 constellations of Chine",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_670",
+    "traditional": "受",
+    "simplified": "受",
+    "pinyin": "shòu",
+    "english": "passive signifier",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_671",
+    "traditional": "輸",
+    "simplified": "输",
+    "pinyin": "shū",
+    "english": "lose, be defeated",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_675",
+    "traditional": "屬",
+    "simplified": "属",
+    "pinyin": "shǔ",
+    "english": "belong, be born in the year of, belong to, be subordinate to, be",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_676",
+    "traditional": "束",
+    "simplified": "束",
+    "pinyin": "shù",
+    "english": "surname Shu, to bind, bunch, bundle, classifier for bunches, bundles, beams of light etc, to control",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_681",
+    "traditional": "雙",
+    "simplified": "双",
+    "pinyin": "shuāng",
+    "english": "m.[general]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_682",
+    "traditional": "死",
+    "simplified": "死",
+    "pinyin": "sǐ",
+    "english": "die",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_684",
+    "traditional": "隨",
+    "simplified": "随",
+    "pinyin": "suí",
+    "english": "v.2 right after v.1",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_685",
+    "traditional": "所",
+    "simplified": "所",
+    "pinyin": "suǒ",
+    "english": "that which",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_686",
+    "traditional": "颱",
+    "simplified": "台",
+    "pinyin": "tái",
+    "english": "short for Taiwan",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_690",
+    "traditional": "談",
+    "simplified": "谈",
+    "pinyin": "tán",
+    "english": "talk, chat",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_691",
+    "traditional": "湯",
+    "simplified": "汤",
+    "pinyin": "tāng",
+    "english": "hot/boiling water, hot springs, soup, broth",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_692",
+    "traditional": "糖",
+    "simplified": "糖",
+    "pinyin": "táng",
+    "english": "refined sugar, carob bar, negus, sugar, candy, carbohydrate, sweets",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_701",
+    "traditional": "甜",
+    "simplified": "甜",
+    "pinyin": "tián",
+    "english": "sweet, agreeable",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_702",
+    "traditional": "跳",
+    "simplified": "跳",
+    "pinyin": "tiào",
+    "english": "ricochet, make omissions, sell grain, vault, hop, bounce, bound, omission, omit, palpitate, move up ",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_706",
+    "traditional": "鐵",
+    "simplified": "铁",
+    "pinyin": "tiě",
+    "english": "shovel, smoothing iron, iron, ferrous, arms, Surname, Fe, ferrum, spade, weapon",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_716",
+    "traditional": "痛",
+    "simplified": "痛",
+    "pinyin": "tòng",
+    "english": "ache, pain",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_717",
+    "traditional": "頭",
+    "simplified": "头",
+    "pinyin": "tóu",
+    "english": "head, hair (style), top/end of sth., chief",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_720",
+    "traditional": "圖",
+    "simplified": "图",
+    "pinyin": "tú",
+    "english": "picture, drawing, chart, map",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_723",
+    "traditional": "土",
+    "simplified": "土",
+    "pinyin": "tǔ",
+    "english": "soil, earth, clay, land",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_724",
+    "traditional": "團",
+    "simplified": "团",
+    "pinyin": "tuán",
+    "english": "m.[proximation]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_731",
+    "traditional": "退",
+    "simplified": "退",
+    "pinyin": "tuì",
+    "english": "retreat, retire, decline, ebb",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_744",
+    "traditional": "為",
+    "simplified": "为",
+    "pinyin": "wèi",
+    "english": "by",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_750",
+    "traditional": "圍",
+    "simplified": "围",
+    "pinyin": "wéi",
+    "english": "surname Wei, to encircle, to surround, all around, to wear by wrapping around (scarf, shawl)",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_764",
+    "traditional": "系",
+    "simplified": "系",
+    "pinyin": "xì",
+    "english": "be",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_776",
+    "traditional": "線",
+    "simplified": "线",
+    "pinyin": "xiàn",
+    "english": "thread, string, wire",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_783",
+    "traditional": "香",
+    "simplified": "香",
+    "pinyin": "xiāng",
+    "english": "fragrant, scented, savory, appetizing, popular, welcome",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_789",
+    "traditional": "血",
+    "simplified": "血",
+    "pinyin": "xuè",
+    "english": "claret, blood, hematic, lifeline, lifeblood, sap",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_791",
+    "traditional": "心",
+    "simplified": "心",
+    "pinyin": "xīn",
+    "english": "heart, mind, feeling, center, core",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_801",
+    "traditional": "信",
+    "simplified": "信",
+    "pinyin": "xìn",
+    "english": "letter, mail, message",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_802",
+    "traditional": "性",
+    "simplified": "性",
+    "pinyin": "xìng",
+    "english": "nature, character, sex, gender",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_805",
+    "traditional": "修",
+    "simplified": "修",
+    "pinyin": "xiū",
+    "english": "embellish, decorate, repair, mend, overhaul, build, construct, trim, prune",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_814",
+    "traditional": "壓",
+    "simplified": "压",
+    "pinyin": "yā",
+    "english": "weight_down, hold down, push down, compact, constrict, be getting near, suppress, squeeze, compress,",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_816",
+    "traditional": "煙",
+    "simplified": "烟",
+    "pinyin": "yān",
+    "english": "smoke, mist, vapor",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_817",
+    "traditional": "演",
+    "simplified": "演",
+    "pinyin": "yǎn",
+    "english": "elaborate, development, practise, practice, develop, act, performance, represent, deduction, drill, ",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_823",
+    "traditional": "羊",
+    "simplified": "羊",
+    "pinyin": "yáng",
+    "english": "kidney, drover, baa, trotter, argali, mutton, sheep, Surname",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_829",
+    "traditional": "已",
+    "simplified": "已",
+    "pinyin": "yǐ",
+    "english": "already",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_838",
+    "traditional": "銀",
+    "simplified": "银",
+    "pinyin": "yín",
+    "english": "silver",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_842",
+    "traditional": "贏",
+    "simplified": "赢",
+    "pinyin": "yíng",
+    "english": "lick, beat, whip, gain, capot, win",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_845",
+    "traditional": "由",
+    "simplified": "由",
+    "pinyin": "yóu",
+    "english": "from, via, by, through, owing/due to",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_852",
+    "traditional": "游",
+    "simplified": "游",
+    "pinyin": "yóu",
+    "english": "swim, float, travel, rove",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_860",
+    "traditional": "員",
+    "simplified": "员",
+    "pinyin": "yuán",
+    "english": "m.[general]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_863",
+    "traditional": "約",
+    "simplified": "约",
+    "pinyin": "yuē",
+    "english": "about, around",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_872",
+    "traditional": "造",
+    "simplified": "造",
+    "pinyin": "zào",
+    "english": "arrive at, training, create, go to, build, invent, construct, education, concoction, mint, invention",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_874",
+    "traditional": "張",
+    "simplified": "张",
+    "pinyin": "zhāng",
+    "english": "m.[general]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_876",
+    "traditional": "者",
+    "simplified": "者",
+    "pinyin": "zhě",
+    "english": "nominal suffix, one who, -er",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_879",
+    "traditional": "爭",
+    "simplified": "争",
+    "pinyin": "zhēng",
+    "english": "be short of, disagree, argue, duel, arguement, compete, vie, dispute, contest, fence, be wanting, co",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_880",
+    "traditional": "照",
+    "simplified": "照",
+    "pinyin": "zhào",
+    "english": "according to, in accordance with, towards",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_881",
+    "traditional": "整",
+    "simplified": "整",
+    "pinyin": "zhěng",
+    "english": "det.: exact",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_889",
+    "traditional": "正",
+    "simplified": "正",
+    "pinyin": "zhèng",
+    "english": "precisely, punctually",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_890",
+    "traditional": "證",
+    "simplified": "证",
+    "pinyin": "zhèng",
+    "english": "certificate, proof, to prove, to demonstrate, to confirm, variant of 症[zheng4]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_893",
+    "traditional": "支",
+    "simplified": "支",
+    "pinyin": "zhī",
+    "english": "m.[general]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_897",
+    "traditional": "只",
+    "simplified": "只",
+    "pinyin": "zhǐ",
+    "english": "only, merely",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_899",
+    "traditional": "直",
+    "simplified": "直",
+    "pinyin": "zhí",
+    "english": "directly, straight, continuously, just, simply",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_902",
+    "traditional": "值",
+    "simplified": "值",
+    "pinyin": "zhí",
+    "english": "be worth",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_908",
+    "traditional": "指",
+    "simplified": "指",
+    "pinyin": "zhǐ",
+    "english": "refer to",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_921",
+    "traditional": "鐘",
+    "simplified": "钟",
+    "pinyin": "zhōng",
+    "english": "timekeeper, timepiece, ticker, carillon, Zhong, time, bell, handleless cup, chime, gong, carillon pl",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_923",
+    "traditional": "種",
+    "simplified": "种",
+    "pinyin": "zhǒng",
+    "english": "m.[kind]",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_927",
+    "traditional": "豬",
+    "simplified": "猪",
+    "pinyin": "zhū",
+    "english": "piggy, porcine, pig, porker, hoggery, Sus scrofa, piggish, hog, piggery, swine",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_933",
+    "traditional": "抓",
+    "simplified": "抓",
+    "pinyin": "zhuā",
+    "english": "clutch, cop, grab, press-gang, scrape, arrest, hent, catch, pay special attention to, be responsible",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_934",
+    "traditional": "祝",
+    "simplified": "祝",
+    "pinyin": "zhù",
+    "english": "bless, invoke blessing, express good wishes, wish",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_941",
+    "traditional": "轉",
+    "simplified": "转",
+    "pinyin": "zhuǎn",
+    "english": "turn, revolve, rotate",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_945",
+    "traditional": "準",
+    "simplified": "准",
+    "pinyin": "zhǔn",
+    "english": "accurate, exact",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_947",
+    "traditional": "追",
+    "simplified": "追",
+    "pinyin": "zhuī",
+    "english": "reminiscence, to pursue, course, reminisce, trace, chase after, recall, follow, chase, pursue, go af",
+    "level": 3,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk3_955",
+    "traditional": "縂",
+    "simplified": "总",
+    "pinyin": "zǒng",
+    "english": "always, invariably, anyway, after all, inevitably, sooner or later",
+    "level": 3,
+    "isCharacter": true
+  }
+]
