@@ -1,0 +1,68 @@
+.stroke-recorder-canvas {
+  touch-action: none;
+  cursor: crosshair;
+  background-color: white;
+  border: 2px solid #e5e7eb;
+  border-radius: 0.5rem;
+}
+
+.stroke-preview {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.stroke-counter {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background-color: #dc2626;
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+.code-preview {
+  max-height: 200px;
+  overflow-y: auto;
+  font-family: monospace;
+  font-size: 0.875rem;
+  padding: 0.75rem;
+  background-color: #f3f4f6;
+  border-radius: 0.5rem;
+  white-space: pre-wrap;
+}
+
+.dark .code-preview {
+  background-color: #1f2937;
+  color: #e5e7eb;
+}
+
+.message {
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.message.success {
+  background-color: #d1fae5;
+  color: #065f46;
+}
+
+.message.error {
+  background-color: #fee2e2;
+  color: #b91c1c;
+}
+
+.dark .message.success {
+  background-color: rgba(6, 95, 70, 0.3);
+  color: #34d399;
+}
+
+.dark .message.error {
+  background-color: rgba(185, 28, 28, 0.3);
+  color: #f87171;
+}

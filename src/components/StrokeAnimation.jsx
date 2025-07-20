@@ -50,7 +50,7 @@ function StrokeAnimation({ character, isPlaying, onComplete }) {
   }
 
   return (
-    <div className="w-48 h-48 border-2 border-gray-300 rounded-lg bg-white relative overflow-hidden">
+    <div className="w-48 h-48 border-2 border-gray-300 rounded-lg bg-white relative overflow-hidden stroke-animation">
       <svg
         width="200"
         height="200"

@@ -3,6 +3,7 @@ import CharacterList from './components/CharacterList'
 import CharacterPractice from './components/CharacterPractice'
 import CompoundWordPractice from './components/CompoundWordPractice'
 import LevelSelector from './components/LevelSelector'
+import StrokeManagerPage from './pages/StrokeManagerPage'
 import hskCharacters from './data/hskCharacters.json'
 import hsk1Characters from './data/hsk1Characters.json'
 import compoundWords from './data/compoundWords.json'
@@ -22,7 +23,7 @@ function App() {
   const [selectedLevel, setSelectedLevel] = useState('all')
   const [selectedCharacter, setSelectedCharacter] = useState(null)
   const [selectedWord, setSelectedWord] = useState(null)
-  const [viewMode, setViewMode] = useState('list') // 'list', 'practice', or 'words'
+  const [viewMode, setViewMode] = useState('list') // 'list', 'practice', 'words', or 'admin'
 
   // Use HSK 1 specific data when level 1 is selected, otherwise use general data
   const useHSK1Data = selectedLevel === '1'
@@ -84,6 +85,16 @@ function App() {
                 Palabras
               </button>
               <button
+                onClick={() => setViewMode('admin')}
+                className={`px-3 py-2 rounded-lg transition-colors text-sm ${
+                  viewMode === 'admin' 
+                    ? 'bg-red-600 text-white' 
+                    : 'bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600'
+                }`}
+              >
+                Admin
+              </button>
+              <button
                 onClick={toggleDarkMode}
                 className="px-3 py-2 rounded-lg transition-colors bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600"
                 aria-label="Toggle dark mode"
@@ -97,28 +108,32 @@ function App() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {/* Progress Stats */}
-        {viewMode === 'words' ? (
-          <WordProgressStats stats={getWordStats()} onReset={resetWordProgress} />
-        ) : (
-          <ProgressStats stats={getStats()} onReset={resetProgress} />
+        {/* Progress Stats (not shown in admin mode) */}
+        {viewMode !== 'admin' && (
+          viewMode === 'words' ? (
+            <WordProgressStats stats={getWordStats()} onReset={resetWordProgress} />
+          ) : (
+            <ProgressStats stats={getStats()} onReset={resetProgress} />
+          )
         )}
         
-        {/* Level Selector */}
-        <LevelSelector 
-          selectedLevel={selectedLevel}
-          onLevelChange={setSelectedLevel}
-          characterCounts={{
-            1: hsk1Characters.length, // Exactly 150
-            2: 150, // Will be implemented later
-            3: 300  // Will be implemented later
-          }}
-          wordCounts={viewMode === 'words' ? {
-            1: hsk1CompoundWords.length,
-            2: compoundWords.filter(w => w.level === 2).length,
-            3: compoundWords.filter(w => w.level === 3).length
-          } : null}
-        />
+        {/* Level Selector (not shown in admin mode) */}
+        {viewMode !== 'admin' && (
+          <LevelSelector 
+            selectedLevel={selectedLevel}
+            onLevelChange={setSelectedLevel}
+            characterCounts={{
+              1: hsk1Characters.length, // Exactly 150
+              2: 150, // Will be implemented later
+              3: 300  // Will be implemented later
+            }}
+            wordCounts={viewMode === 'words' ? {
+              1: hsk1CompoundWords.length,
+              2: compoundWords.filter(w => w.level === 2).length,
+              3: compoundWords.filter(w => w.level === 3).length
+            } : null}
+          />
+        )}
 
         {/* Content based on view mode */}
         {viewMode === 'list' ? (
@@ -138,7 +153,7 @@ function App() {
             markCharacterPracticed={markCharacterPracticed}
             getCharacterProgress={getCharacterProgress}
           />
-        ) : (
+        ) : viewMode === 'words' ? (
           <CompoundWordPractice
             word={selectedWord || filteredWords[0]}
             words={filteredWords}
@@ -146,6 +161,8 @@ function App() {
             markWordPracticed={markWordPracticed}
             getWordProgress={getWordProgress}
           />
+        ) : (
+          <StrokeManagerPage />
         )}
       </main>
 
