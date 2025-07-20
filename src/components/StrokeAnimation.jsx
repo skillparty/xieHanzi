@@ -18,14 +18,20 @@ function StrokeAnimation({ character, isPlaying, onComplete }) {
   }, [isPlaying, currentCharacter])
 
   const animateStrokes = async () => {
-    for (let i = 0; i < strokes.length; i++) {
-      setCurrentStroke(i)
-      await new Promise(resolve => 
-        setTimeout(resolve, (strokes[i].duration * 1000) + 500)
-      )
+    try {
+      for (let i = 0; i < strokes.length; i++) {
+        setCurrentStroke(i)
+        await new Promise(resolve => 
+          setTimeout(resolve, (strokes[i].duration * 1000) + 500)
+        )
+      }
+      setIsAnimating(false)
+      onComplete?.()
+    } catch (error) {
+      console.error('Error in stroke animation:', error)
+      setIsAnimating(false)
+      onComplete?.()
     }
-    setIsAnimating(false)
-    onComplete?.()
   }
 
   if (!strokes.length) {
@@ -41,8 +47,9 @@ function StrokeAnimation({ character, isPlaying, onComplete }) {
         </div>
       </div>
     )
-  }  ret
-urn (
+  }
+
+  return (
     <div className="w-48 h-48 border-2 border-gray-300 rounded-lg bg-white relative overflow-hidden">
       <svg
         width="200"

@@ -69,13 +69,17 @@ function CharacterPractice({ character, characters, onCharacterChange, markChara
 
   // Update character when index changes
   useEffect(() => {
-    if (characters[currentIndex]) {
-      onCharacterChange(characters[currentIndex])
-      clearCanvas()
-      setShowHint(false)
-      setShowDetails(false)
+    try {
+      if (characters && characters.length > 0 && characters[currentIndex]) {
+        onCharacterChange(characters[currentIndex])
+        clearCanvas()
+        setShowHint(false)
+        setShowDetails(false)
+      }
+    } catch (error) {
+      console.error('Error updating character:', error)
     }
-  }, [currentIndex])
+  }, [currentIndex, characters])
 
   // Handle drawing
   const startDrawing = (e) => {
@@ -155,11 +159,15 @@ function CharacterPractice({ character, characters, onCharacterChange, markChara
 
   // Navigate characters
   const goToPrevious = () => {
-    setCurrentIndex((prev) => (prev > 0 ? prev - 1 : characters.length - 1))
+    if (characters && characters.length > 0) {
+      setCurrentIndex((prev) => (prev > 0 ? prev - 1 : characters.length - 1))
+    }
   }
 
   const goToNext = () => {
-    setCurrentIndex((prev) => (prev < characters.length - 1 ? prev + 1 : 0))
+    if (characters && characters.length > 0) {
+      setCurrentIndex((prev) => (prev < characters.length - 1 ? prev + 1 : 0))
+    }
   }
 
   // Animation controls
@@ -183,7 +191,17 @@ function CharacterPractice({ character, characters, onCharacterChange, markChara
     }
   }
 
-  if (!character) return null
+  if (!character || !characters || characters.length === 0) {
+    return (
+      <div className="max-w-6xl mx-auto">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 text-center">
+          <p className="text-gray-600 dark:text-gray-400">
+            No hay caracteres disponibles para practicar.
+          </p>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="max-w-6xl mx-auto">
