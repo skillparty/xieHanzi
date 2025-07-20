@@ -1,0 +1,602 @@
+[
+  {
+    "id": "hsk1_word_001",
+    "word": "爸爸",
+    "pinyin": "bà ba",
+    "english": "father, dad",
+    "characters": [
+      {
+        "character": "爸",
+        "pinyin": "bà",
+        "meaning": "father"
+      },
+      {
+        "character": "爸",
+        "pinyin": "ba",
+        "meaning": "father"
+      }
+    ],
+    "level": 1,
+    "category": "family"
+  },
+  {
+    "id": "hsk1_word_002",
+    "word": "妈妈",
+    "pinyin": "mā ma",
+    "english": "mother, mom",
+    "characters": [
+      {
+        "character": "妈",
+        "pinyin": "mā",
+        "meaning": "mother"
+      },
+      {
+        "character": "妈",
+        "pinyin": "ma",
+        "meaning": "mother"
+      }
+    ],
+    "level": 1,
+    "category": "family"
+  },
+  {
+    "id": "hsk1_word_003",
+    "word": "老师",
+    "pinyin": "lǎo shī",
+    "english": "teacher",
+    "characters": [
+      {
+        "character": "老",
+        "pinyin": "lǎo",
+        "meaning": "old"
+      },
+      {
+        "character": "师",
+        "pinyin": "shī",
+        "meaning": "teacher, master"
+      }
+    ],
+    "level": 1,
+    "category": "education"
+  },
+  {
+    "id": "hsk1_word_004",
+    "word": "学生",
+    "pinyin": "xué shēng",
+    "english": "student",
+    "characters": [
+      {
+        "character": "学",
+        "pinyin": "xué",
+        "meaning": "to study, learn"
+      },
+      {
+        "character": "生",
+        "pinyin": "shēng",
+        "meaning": "to be born, life"
+      }
+    ],
+    "level": 1,
+    "category": "education"
+  },
+  {
+    "id": "hsk1_word_005",
+    "word": "朋友",
+    "pinyin": "péng yǒu",
+    "english": "friend",
+    "characters": [
+      {
+        "character": "朋",
+        "pinyin": "péng",
+        "meaning": "friend"
+      },
+      {
+        "character": "友",
+        "pinyin": "yǒu",
+        "meaning": "friend"
+      }
+    ],
+    "level": 1,
+    "category": "relationships"
+  },
+  {
+    "id": "hsk1_word_006",
+    "word": "中国",
+    "pinyin": "zhōng guó",
+    "english": "China",
+    "characters": [
+      {
+        "character": "中",
+        "pinyin": "zhōng",
+        "meaning": "middle, center"
+      },
+      {
+        "character": "国",
+        "pinyin": "guó",
+        "meaning": "country, nation"
+      }
+    ],
+    "level": 1,
+    "category": "countries"
+  },
+  {
+    "id": "hsk1_word_007",
+    "word": "汉语",
+    "pinyin": "hàn yǔ",
+    "english": "Chinese language",
+    "characters": [
+      {
+        "character": "汉",
+        "pinyin": "hàn",
+        "meaning": "Han (Chinese)"
+      },
+      {
+        "character": "语",
+        "pinyin": "yǔ",
+        "meaning": "language"
+      }
+    ],
+    "level": 1,
+    "category": "languages"
+  },
+  {
+    "id": "hsk1_word_008",
+    "word": "什么",
+    "pinyin": "shén me",
+    "english": "what",
+    "characters": [
+      {
+        "character": "什",
+        "pinyin": "shén",
+        "meaning": "what"
+      },
+      {
+        "character": "么",
+        "pinyin": "me",
+        "meaning": "what (particle)"
+      }
+    ],
+    "level": 1,
+    "category": "questions"
+  },
+  {
+    "id": "hsk1_word_009",
+    "word": "多少",
+    "pinyin": "duō shao",
+    "english": "how much, how many",
+    "characters": [
+      {
+        "character": "多",
+        "pinyin": "duō",
+        "meaning": "many, much"
+      },
+      {
+        "character": "少",
+        "pinyin": "shao",
+        "meaning": "few, little"
+      }
+    ],
+    "level": 1,
+    "category": "questions"
+  },
+  {
+    "id": "hsk1_word_010",
+    "word": "几点",
+    "pinyin": "jǐ diǎn",
+    "english": "what time",
+    "characters": [
+      {
+        "character": "几",
+        "pinyin": "jǐ",
+        "meaning": "how many, several"
+      },
+      {
+        "character": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock, point"
+      }
+    ],
+    "level": 1,
+    "category": "time"
+  },
+  {
+    "id": "hsk1_word_011",
+    "word": "今天",
+    "pinyin": "jīn tiān",
+    "english": "today",
+    "characters": [
+      {
+        "character": "今",
+        "pinyin": "jīn",
+        "meaning": "today, now"
+      },
+      {
+        "character": "天",
+        "pinyin": "tiān",
+        "meaning": "day, sky"
+      }
+    ],
+    "level": 1,
+    "category": "time"
+  },
+  {
+    "id": "hsk1_word_012",
+    "word": "明天",
+    "pinyin": "míng tiān",
+    "english": "tomorrow",
+    "characters": [
+      {
+        "character": "明",
+        "pinyin": "míng",
+        "meaning": "bright, clear"
+      },
+      {
+        "character": "天",
+        "pinyin": "tiān",
+        "meaning": "day, sky"
+      }
+    ],
+    "level": 1,
+    "category": "time"
+  },
+  {
+    "id": "hsk1_word_013",
+    "word": "昨天",
+    "pinyin": "zuó tiān",
+    "english": "yesterday",
+    "characters": [
+      {
+        "character": "昨",
+        "pinyin": "zuó",
+        "meaning": "yesterday"
+      },
+      {
+        "character": "天",
+        "pinyin": "tiān",
+        "meaning": "day, sky"
+      }
+    ],
+    "level": 1,
+    "category": "time"
+  },
+  {
+    "id": "hsk1_word_014",
+    "word": "星期",
+    "pinyin": "xīng qī",
+    "english": "week",
+    "characters": [
+      {
+        "character": "星",
+        "pinyin": "xīng",
+        "meaning": "star"
+      },
+      {
+        "character": "期",
+        "pinyin": "qī",
+        "meaning": "period, time"
+      }
+    ],
+    "level": 1,
+    "category": "time"
+  },
+  {
+    "id": "hsk1_word_015",
+    "word": "电话",
+    "pinyin": "diàn huà",
+    "english": "telephone",
+    "characters": [
+      {
+        "character": "电",
+        "pinyin": "diàn",
+        "meaning": "electricity"
+      },
+      {
+        "character": "话",
+        "pinyin": "huà",
+        "meaning": "speech, words"
+      }
+    ],
+    "level": 1,
+    "category": "technology"
+  },
+  {
+    "id": "hsk1_word_016",
+    "word": "电脑",
+    "pinyin": "diàn nǎo",
+    "english": "computer",
+    "characters": [
+      {
+        "character": "电",
+        "pinyin": "diàn",
+        "meaning": "electricity"
+      },
+      {
+        "character": "脑",
+        "pinyin": "nǎo",
+        "meaning": "brain"
+      }
+    ],
+    "level": 1,
+    "category": "technology"
+  },
+  {
+    "id": "hsk1_word_017",
+    "word": "电视",
+    "pinyin": "diàn shì",
+    "english": "television",
+    "characters": [
+      {
+        "character": "电",
+        "pinyin": "diàn",
+        "meaning": "electricity"
+      },
+      {
+        "character": "视",
+        "pinyin": "shì",
+        "meaning": "to see, vision"
+      }
+    ],
+    "level": 1,
+    "category": "technology"
+  },
+  {
+    "id": "hsk1_word_018",
+    "word": "喜欢",
+    "pinyin": "xǐ huān",
+    "english": "to like, to love",
+    "characters": [
+      {
+        "character": "喜",
+        "pinyin": "xǐ",
+        "meaning": "happy, joy"
+      },
+      {
+        "character": "欢",
+        "pinyin": "huān",
+        "meaning": "joyous, happy"
+      }
+    ],
+    "level": 1,
+    "category": "emotions"
+  },
+  {
+    "id": "hsk1_word_019",
+    "word": "工作",
+    "pinyin": "gōng zuò",
+    "english": "work, job",
+    "characters": [
+      {
+        "character": "工",
+        "pinyin": "gōng",
+        "meaning": "work, labor"
+      },
+      {
+        "character": "作",
+        "pinyin": "zuò",
+        "meaning": "to do, to make"
+      }
+    ],
+    "level": 1,
+    "category": "work"
+  },
+  {
+    "id": "hsk1_word_020",
+    "word": "医生",
+    "pinyin": "yī shēng",
+    "english": "doctor",
+    "characters": [
+      {
+        "character": "医",
+        "pinyin": "yī",
+        "meaning": "doctor, medicine"
+      },
+      {
+        "character": "生",
+        "pinyin": "shēng",
+        "meaning": "to be born, life"
+      }
+    ],
+    "level": 1,
+    "category": "professions"
+  },
+  {
+    "id": "hsk1_word_021",
+    "word": "医院",
+    "pinyin": "yī yuàn",
+    "english": "hospital",
+    "characters": [
+      {
+        "character": "医",
+        "pinyin": "yī",
+        "meaning": "doctor, medicine"
+      },
+      {
+        "character": "院",
+        "pinyin": "yuàn",
+        "meaning": "courtyard, hospital"
+      }
+    ],
+    "level": 1,
+    "category": "places"
+  },
+  {
+    "id": "hsk1_word_022",
+    "word": "学校",
+    "pinyin": "xué xiào",
+    "english": "school",
+    "characters": [
+      {
+        "character": "学",
+        "pinyin": "xué",
+        "meaning": "to study, learn"
+      },
+      {
+        "character": "校",
+        "pinyin": "xiào",
+        "meaning": "school"
+      }
+    ],
+    "level": 1,
+    "category": "places"
+  },
+  {
+    "id": "hsk1_word_023",
+    "word": "商店",
+    "pinyin": "shāng diàn",
+    "english": "shop, store",
+    "characters": [
+      {
+        "character": "商",
+        "pinyin": "shāng",
+        "meaning": "business, commerce"
+      },
+      {
+        "character": "店",
+        "pinyin": "diàn",
+        "meaning": "shop, store"
+      }
+    ],
+    "level": 1,
+    "category": "places"
+  },
+  {
+    "id": "hsk1_word_024",
+    "word": "饭店",
+    "pinyin": "fàn diàn",
+    "english": "restaurant, hotel",
+    "characters": [
+      {
+        "character": "饭",
+        "pinyin": "fàn",
+        "meaning": "rice, meal"
+      },
+      {
+        "character": "店",
+        "pinyin": "diàn",
+        "meaning": "shop, store"
+      }
+    ],
+    "level": 1,
+    "category": "places"
+  },
+  {
+    "id": "hsk1_word_025",
+    "word": "火车",
+    "pinyin": "huǒ chē",
+    "english": "train",
+    "characters": [
+      {
+        "character": "火",
+        "pinyin": "huǒ",
+        "meaning": "fire"
+      },
+      {
+        "character": "车",
+        "pinyin": "chē",
+        "meaning": "vehicle"
+      }
+    ],
+    "level": 1,
+    "category": "transportation"
+  },
+  {
+    "id": "hsk1_word_026",
+    "word": "飞机",
+    "pinyin": "fēi jī",
+    "english": "airplane",
+    "characters": [
+      {
+        "character": "飞",
+        "pinyin": "fēi",
+        "meaning": "to fly"
+      },
+      {
+        "character": "机",
+        "pinyin": "jī",
+        "meaning": "machine"
+      }
+    ],
+    "level": 1,
+    "category": "transportation"
+  },
+  {
+    "id": "hsk1_word_027",
+    "word": "出租",
+    "pinyin": "chū zū",
+    "english": "to rent out, taxi",
+    "characters": [
+      {
+        "character": "出",
+        "pinyin": "chū",
+        "meaning": "to go out, to come out"
+      },
+      {
+        "character": "租",
+        "pinyin": "zū",
+        "meaning": "to rent"
+      }
+    ],
+    "level": 1,
+    "category": "transportation"
+  },
+  {
+    "id": "hsk1_word_028",
+    "word": "苹果",
+    "pinyin": "píng guǒ",
+    "english": "apple",
+    "characters": [
+      {
+        "character": "苹",
+        "pinyin": "píng",
+        "meaning": "apple"
+      },
+      {
+        "character": "果",
+        "pinyin": "guǒ",
+        "meaning": "fruit"
+      }
+    ],
+    "level": 1,
+    "category": "food"
+  },
+  {
+    "id": "hsk1_word_029",
+    "word": "牛奶",
+    "pinyin": "niú nǎi",
+    "english": "milk",
+    "characters": [
+      {
+        "character": "牛",
+        "pinyin": "niú",
+        "meaning": "cow, ox"
+      },
+      {
+        "character": "奶",
+        "pinyin": "nǎi",
+        "meaning": "milk"
+      }
+    ],
+    "level": 1,
+    "category": "food"
+  },
+  {
+    "id": "hsk1_word_030",
+    "word": "面条",
+    "pinyin": "miàn tiáo",
+    "english": "noodles",
+    "characters": [
+      {
+        "character": "面",
+        "pinyin": "miàn",
+        "meaning": "noodles, face"
+      },
+      {
+        "character": "条",
+        "pinyin": "tiáo",
+        "meaning": "strip, measure word"
+      }
+    ],
+    "level": 1,
+    "category": "food"
+  }
+]

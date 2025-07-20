@@ -1,0 +1,607 @@
+[
+  {
+    "id": "compound_1",
+    "word": "跑步",
+    "pinyin": "pǎo bù",
+    "english": "to run, running",
+    "characters": [
+      {
+        "character": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run"
+      },
+      {
+        "character": "步",
+        "pinyin": "bù", 
+        "meaning": "step, pace"
+      }
+    ],
+    "level": 1,
+    "category": "sports"
+  },
+  {
+    "id": "compound_2",
+    "word": "感兴趣",
+    "pinyin": "gǎn xìng qù",
+    "english": "to be interested in",
+    "characters": [
+      {
+        "character": "感",
+        "pinyin": "gǎn",
+        "meaning": "to feel"
+      },
+      {
+        "character": "兴",
+        "pinyin": "xìng",
+        "meaning": "interest, excitement"
+      },
+      {
+        "character": "趣",
+        "pinyin": "qù",
+        "meaning": "interest, fun"
+      }
+    ],
+    "level": 2,
+    "category": "emotions"
+  },
+  {
+    "id": "compound_3",
+    "word": "学生",
+    "pinyin": "xué shēng",
+    "english": "student",
+    "characters": [
+      {
+        "character": "学",
+        "pinyin": "xué",
+        "meaning": "to study, learn"
+      },
+      {
+        "character": "生",
+        "pinyin": "shēng",
+        "meaning": "to be born, life"
+      }
+    ],
+    "level": 1,
+    "category": "education"
+  },
+  {
+    "id": "compound_4",
+    "word": "老师",
+    "pinyin": "lǎo shī",
+    "english": "teacher",
+    "characters": [
+      {
+        "character": "老",
+        "pinyin": "lǎo",
+        "meaning": "old"
+      },
+      {
+        "character": "师",
+        "pinyin": "shī",
+        "meaning": "teacher, master"
+      }
+    ],
+    "level": 1,
+    "category": "education"
+  },
+  {
+    "id": "compound_5",
+    "word": "朋友",
+    "pinyin": "péng yǒu",
+    "english": "friend",
+    "characters": [
+      {
+        "character": "朋",
+        "pinyin": "péng",
+        "meaning": "friend"
+      },
+      {
+        "character": "友",
+        "pinyin": "yǒu",
+        "meaning": "friend"
+      }
+    ],
+    "level": 1,
+    "category": "relationships"
+  },
+  {
+    "id": "compound_6",
+    "word": "家人",
+    "pinyin": "jiā rén",
+    "english": "family member",
+    "characters": [
+      {
+        "character": "家",
+        "pinyin": "jiā",
+        "meaning": "home, family"
+      },
+      {
+        "character": "人",
+        "pinyin": "rén",
+        "meaning": "person"
+      }
+    ],
+    "level": 1,
+    "category": "family"
+  },
+  {
+    "id": "compound_7",
+    "word": "中国",
+    "pinyin": "zhōng guó",
+    "english": "China",
+    "characters": [
+      {
+        "character": "中",
+        "pinyin": "zhōng",
+        "meaning": "middle, center"
+      },
+      {
+        "character": "国",
+        "pinyin": "guó",
+        "meaning": "country, nation"
+      }
+    ],
+    "level": 1,
+    "category": "countries"
+  },
+  {
+    "id": "compound_8",
+    "word": "汉语",
+    "pinyin": "hàn yǔ",
+    "english": "Chinese language",
+    "characters": [
+      {
+        "character": "汉",
+        "pinyin": "hàn",
+        "meaning": "Han (Chinese)"
+      },
+      {
+        "character": "语",
+        "pinyin": "yǔ",
+        "meaning": "language"
+      }
+    ],
+    "level": 1,
+    "category": "languages"
+  },
+  {
+    "id": "compound_9",
+    "word": "工作",
+    "pinyin": "gōng zuò",
+    "english": "work, job",
+    "characters": [
+      {
+        "character": "工",
+        "pinyin": "gōng",
+        "meaning": "work, labor"
+      },
+      {
+        "character": "作",
+        "pinyin": "zuò",
+        "meaning": "to do, to make"
+      }
+    ],
+    "level": 1,
+    "category": "work"
+  },
+  {
+    "id": "compound_10",
+    "word": "时间",
+    "pinyin": "shí jiān",
+    "english": "time",
+    "characters": [
+      {
+        "character": "时",
+        "pinyin": "shí",
+        "meaning": "time, hour"
+      },
+      {
+        "character": "间",
+        "pinyin": "jiān",
+        "meaning": "between, space"
+      }
+    ],
+    "level": 1,
+    "category": "time"
+  },
+  {
+    "id": "compound_11",
+    "word": "电话",
+    "pinyin": "diàn huà",
+    "english": "telephone",
+    "characters": [
+      {
+        "character": "电",
+        "pinyin": "diàn",
+        "meaning": "electricity"
+      },
+      {
+        "character": "话",
+        "pinyin": "huà",
+        "meaning": "speech, words"
+      }
+    ],
+    "level": 1,
+    "category": "technology"
+  },
+  {
+    "id": "compound_12",
+    "word": "电脑",
+    "pinyin": "diàn nǎo",
+    "english": "computer",
+    "characters": [
+      {
+        "character": "电",
+        "pinyin": "diàn",
+        "meaning": "electricity"
+      },
+      {
+        "character": "脑",
+        "pinyin": "nǎo",
+        "meaning": "brain"
+      }
+    ],
+    "level": 1,
+    "category": "technology"
+  },
+  {
+    "id": "compound_13",
+    "word": "喜欢",
+    "pinyin": "xǐ huān",
+    "english": "to like, to love",
+    "characters": [
+      {
+        "character": "喜",
+        "pinyin": "xǐ",
+        "meaning": "happy, joy"
+      },
+      {
+        "character": "欢",
+        "pinyin": "huān",
+        "meaning": "joyous, happy"
+      }
+    ],
+    "level": 1,
+    "category": "emotions"
+  },
+  {
+    "id": "compound_14",
+    "word": "认识",
+    "pinyin": "rèn shi",
+    "english": "to know, to recognize",
+    "characters": [
+      {
+        "character": "认",
+        "pinyin": "rèn",
+        "meaning": "to recognize"
+      },
+      {
+        "character": "识",
+        "pinyin": "shi",
+        "meaning": "knowledge"
+      }
+    ],
+    "level": 1,
+    "category": "cognition"
+  },
+  {
+    "id": "compound_15",
+    "word": "开始",
+    "pinyin": "kāi shǐ",
+    "english": "to begin, to start",
+    "characters": [
+      {
+        "character": "开",
+        "pinyin": "kāi",
+        "meaning": "to open"
+      },
+      {
+        "character": "始",
+        "pinyin": "shǐ",
+        "meaning": "to begin"
+      }
+    ],
+    "level": 2,
+    "category": "actions"
+  },
+  {
+    "id": "compound_16",
+    "word": "结束",
+    "pinyin": "jié shù",
+    "english": "to end, to finish",
+    "characters": [
+      {
+        "character": "结",
+        "pinyin": "jié",
+        "meaning": "to tie, to conclude"
+      },
+      {
+        "character": "束",
+        "pinyin": "shù",
+        "meaning": "bundle, to bind"
+      }
+    ],
+    "level": 2,
+    "category": "actions"
+  },
+  {
+    "id": "compound_17",
+    "word": "帮助",
+    "pinyin": "bāng zhù",
+    "english": "to help, assistance",
+    "characters": [
+      {
+        "character": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help"
+      },
+      {
+        "character": "助",
+        "pinyin": "zhù",
+        "meaning": "to assist"
+      }
+    ],
+    "level": 2,
+    "category": "actions"
+  },
+  {
+    "id": "compound_18",
+    "word": "希望",
+    "pinyin": "xī wàng",
+    "english": "to hope, hope",
+    "characters": [
+      {
+        "character": "希",
+        "pinyin": "xī",
+        "meaning": "to hope"
+      },
+      {
+        "character": "望",
+        "pinyin": "wàng",
+        "meaning": "to look at, to hope"
+      }
+    ],
+    "level": 2,
+    "category": "emotions"
+  },
+  {
+    "id": "compound_19",
+    "word": "担心",
+    "pinyin": "dān xīn",
+    "english": "to worry, to be concerned",
+    "characters": [
+      {
+        "character": "担",
+        "pinyin": "dān",
+        "meaning": "to carry, to bear"
+      },
+      {
+        "character": "心",
+        "pinyin": "xīn",
+        "meaning": "heart, mind"
+      }
+    ],
+    "level": 2,
+    "category": "emotions"
+  },
+  {
+    "id": "compound_20",
+    "word": "努力",
+    "pinyin": "nǔ lì",
+    "english": "to work hard, effort",
+    "characters": [
+      {
+        "character": "努",
+        "pinyin": "nǔ",
+        "meaning": "to exert, to strive"
+      },
+      {
+        "character": "力",
+        "pinyin": "lì",
+        "meaning": "strength, power"
+      }
+    ],
+    "level": 2,
+    "category": "actions"
+  },
+  {
+    "id": "compound_21",
+    "word": "决定",
+    "pinyin": "jué dìng",
+    "english": "to decide, decision",
+    "characters": [
+      {
+        "character": "决",
+        "pinyin": "jué",
+        "meaning": "to decide"
+      },
+      {
+        "character": "定",
+        "pinyin": "dìng",
+        "meaning": "to fix, to set"
+      }
+    ],
+    "level": 2,
+    "category": "cognition"
+  },
+  {
+    "id": "compound_22",
+    "word": "同意",
+    "pinyin": "tóng yì",
+    "english": "to agree, agreement",
+    "characters": [
+      {
+        "character": "同",
+        "pinyin": "tóng",
+        "meaning": "same, together"
+      },
+      {
+        "character": "意",
+        "pinyin": "yì",
+        "meaning": "meaning, intention"
+      }
+    ],
+    "level": 2,
+    "category": "cognition"
+  },
+  {
+    "id": "compound_23",
+    "word": "发现",
+    "pinyin": "fā xiàn",
+    "english": "to discover, to find",
+    "characters": [
+      {
+        "character": "发",
+        "pinyin": "fā",
+        "meaning": "to send out, to emit"
+      },
+      {
+        "character": "现",
+        "pinyin": "xiàn",
+        "meaning": "to appear, present"
+      }
+    ],
+    "level": 3,
+    "category": "cognition"
+  },
+  {
+    "id": "compound_24",
+    "word": "解决",
+    "pinyin": "jiě jué",
+    "english": "to solve, to resolve",
+    "characters": [
+      {
+        "character": "解",
+        "pinyin": "jiě",
+        "meaning": "to untie, to solve"
+      },
+      {
+        "character": "决",
+        "pinyin": "jué",
+        "meaning": "to decide"
+      }
+    ],
+    "level": 3,
+    "category": "actions"
+  },
+  {
+    "id": "compound_25",
+    "word": "影响",
+    "pinyin": "yǐng xiǎng",
+    "english": "to influence, influence",
+    "characters": [
+      {
+        "character": "影",
+        "pinyin": "yǐng",
+        "meaning": "shadow, image"
+      },
+      {
+        "character": "响",
+        "pinyin": "xiǎng",
+        "meaning": "sound, to ring"
+      }
+    ],
+    "level": 3,
+    "category": "abstract"
+  },
+  {
+    "id": "compound_26",
+    "word": "经验",
+    "pinyin": "jīng yàn",
+    "english": "experience",
+    "characters": [
+      {
+        "character": "经",
+        "pinyin": "jīng",
+        "meaning": "to pass through"
+      },
+      {
+        "character": "验",
+        "pinyin": "yàn",
+        "meaning": "to test, to verify"
+      }
+    ],
+    "level": 3,
+    "category": "abstract"
+  },
+  {
+    "id": "compound_27",
+    "word": "机会",
+    "pinyin": "jī huì",
+    "english": "opportunity, chance",
+    "characters": [
+      {
+        "character": "机",
+        "pinyin": "jī",
+        "meaning": "machine, opportunity"
+      },
+      {
+        "character": "会",
+        "pinyin": "huì",
+        "meaning": "can, meeting"
+      }
+    ],
+    "level": 3,
+    "category": "abstract"
+  },
+  {
+    "id": "compound_28",
+    "word": "环境",
+    "pinyin": "huán jìng",
+    "english": "environment",
+    "characters": [
+      {
+        "character": "环",
+        "pinyin": "huán",
+        "meaning": "ring, to surround"
+      },
+      {
+        "character": "境",
+        "pinyin": "jìng",
+        "meaning": "boundary, situation"
+      }
+    ],
+    "level": 3,
+    "category": "abstract"
+  },
+  {
+    "id": "compound_29",
+    "word": "社会",
+    "pinyin": "shè huì",
+    "english": "society",
+    "characters": [
+      {
+        "character": "社",
+        "pinyin": "shè",
+        "meaning": "society, organization"
+      },
+      {
+        "character": "会",
+        "pinyin": "huì",
+        "meaning": "can, meeting"
+      }
+    ],
+    "level": 3,
+    "category": "abstract"
+  },
+  {
+    "id": "compound_30",
+    "word": "文化",
+    "pinyin": "wén huà",
+    "english": "culture",
+    "characters": [
+      {
+        "character": "文",
+        "pinyin": "wén",
+        "meaning": "writing, culture"
+      },
+      {
+        "character": "化",
+        "pinyin": "huà",
+        "meaning": "to change, -ize"
+      }
+    ],
+    "level": 3,
+    "category": "abstract"
+  }
+]

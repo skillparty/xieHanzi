@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "hsk1_001",
+    "traditional": "愛",
+    "simplified": "爱",
+    "pinyin": "ài",
+    "english": "love, to love",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_002",
+    "traditional": "八",
+    "simplified": "八",
+    "pinyin": "bā",
+    "english": "eight",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_003",
+    "traditional": "爸",
+    "simplified": "爸",
+    "pinyin": "bà",
+    "english": "father, dad",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_004",
+    "traditional": "杯",
+    "simplified": "杯",
+    "pinyin": "bēi",
+    "english": "cup, glass",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_005",
+    "traditional": "北",
+    "simplified": "北",
+    "pinyin": "běi",
+    "english": "north",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_006",
+    "traditional": "本",
+    "simplified": "本",
+    "pinyin": "běn",
+    "english": "book, this",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_007",
+    "traditional": "不",
+    "simplified": "不",
+    "pinyin": "bù",
+    "english": "not, no",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_008",
+    "traditional": "菜",
+    "simplified": "菜",
+    "pinyin": "cài",
+    "english": "dish, vegetable",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_009",
+    "traditional": "茶",
+    "simplified": "茶",
+    "pinyin": "chá",
+    "english": "tea",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_010",
+    "traditional": "吃",
+    "simplified": "吃",
+    "pinyin": "chī",
+    "english": "to eat",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_011",
+    "traditional": "出",
+    "simplified": "出",
+    "pinyin": "chū",
+    "english": "to go out, to come out",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_012",
+    "traditional": "打",
+    "simplified": "打",
+    "pinyin": "dǎ",
+    "english": "to hit, to play",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_013",
+    "traditional": "大",
+    "simplified": "大",
+    "pinyin": "dà",
+    "english": "big, large",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_014",
+    "traditional": "的",
+    "simplified": "的",
+    "pinyin": "de",
+    "english": "possessive particle",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_015",
+    "traditional": "點",
+    "simplified": "点",
+    "pinyin": "diǎn",
+    "english": "o'clock, point",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_016",
+    "traditional": "電",
+    "simplified": "电",
+    "pinyin": "diàn",
+    "english": "electricity",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_017",
+    "traditional": "東",
+    "simplified": "东",
+    "pinyin": "dōng",
+    "english": "east",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_018",
+    "traditional": "都",
+    "simplified": "都",
+    "pinyin": "dōu",
+    "english": "all, both",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_019",
+    "traditional": "讀",
+    "simplified": "读",
+    "pinyin": "dú",
+    "english": "to read",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_020",
+    "traditional": "對",
+    "simplified": "对",
+    "pinyin": "duì",
+    "english": "correct, right",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_021",
+    "traditional": "多",
+    "simplified": "多",
+    "pinyin": "duō",
+    "english": "many, much",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_022",
+    "traditional": "二",
+    "simplified": "二",
+    "pinyin": "èr",
+    "english": "two",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_023",
+    "traditional": "飯",
+    "simplified": "饭",
+    "pinyin": "fàn",
+    "english": "rice, meal",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_024",
+    "traditional": "飛",
+    "simplified": "飞",
+    "pinyin": "fēi",
+    "english": "to fly",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_025",
+    "traditional": "分",
+    "simplified": "分",
+    "pinyin": "fēn",
+    "english": "minute, to divide",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_026",
+    "traditional": "高",
+    "simplified": "高",
+    "pinyin": "gāo",
+    "english": "tall, high",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_027",
+    "traditional": "個",
+    "simplified": "个",
+    "pinyin": "gè",
+    "english": "measure word",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_028",
+    "traditional": "工",
+    "simplified": "工",
+    "pinyin": "gōng",
+    "english": "work",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_029",
+    "traditional": "狗",
+    "simplified": "狗",
+    "pinyin": "gǒu",
+    "english": "dog",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_030",
+    "traditional": "漢",
+    "simplified": "汉",
+    "pinyin": "hàn",
+    "english": "Chinese, Han",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_031",
+    "traditional": "好",
+    "simplified": "好",
+    "pinyin": "hǎo",
+    "english": "good, well",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_032",
+    "traditional": "喝",
+    "simplified": "喝",
+    "pinyin": "hē",
+    "english": "to drink",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_033",
+    "traditional": "和",
+    "simplified": "和",
+    "pinyin": "hé",
+    "english": "and, with",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_034",
+    "traditional": "很",
+    "simplified": "很",
+    "pinyin": "hěn",
+    "english": "very",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_035",
+    "traditional": "後",
+    "simplified": "后",
+    "pinyin": "hòu",
+    "english": "after, behind",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_036",
+    "traditional": "回",
+    "simplified": "回",
+    "pinyin": "huí",
+    "english": "to return",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_037",
+    "traditional": "會",
+    "simplified": "会",
+    "pinyin": "huì",
+    "english": "can, will",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_038",
+    "traditional": "火",
+    "simplified": "火",
+    "pinyin": "huǒ",
+    "english": "fire",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_039",
+    "traditional": "機",
+    "simplified": "机",
+    "pinyin": "jī",
+    "english": "machine",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_040",
+    "traditional": "幾",
+    "simplified": "几",
+    "pinyin": "jǐ",
+    "english": "how many, several",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_041",
+    "traditional": "家",
+    "simplified": "家",
+    "pinyin": "jiā",
+    "english": "home, family",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_042",
+    "traditional": "叫",
+    "simplified": "叫",
+    "pinyin": "jiào",
+    "english": "to call, to be called",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_043",
+    "traditional": "今",
+    "simplified": "今",
+    "pinyin": "jīn",
+    "english": "today, now",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_044",
+    "traditional": "九",
+    "simplified": "九",
+    "pinyin": "jiǔ",
+    "english": "nine",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_045",
+    "traditional": "開",
+    "simplified": "开",
+    "pinyin": "kāi",
+    "english": "to open",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_046",
+    "traditional": "看",
+    "simplified": "看",
+    "pinyin": "kàn",
+    "english": "to look, to see",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_047",
+    "traditional": "來",
+    "simplified": "来",
+    "pinyin": "lái",
+    "english": "to come",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_048",
+    "traditional": "老",
+    "simplified": "老",
+    "pinyin": "lǎo",
+    "english": "old",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_049",
+    "traditional": "了",
+    "simplified": "了",
+    "pinyin": "le",
+    "english": "particle indicating completion",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_050",
+    "traditional": "冷",
+    "simplified": "冷",
+    "pinyin": "lěng",
+    "english": "cold",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_051",
+    "traditional": "裡",
+    "simplified": "里",
+    "pinyin": "lǐ",
+    "english": "inside, in",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_052",
+    "traditional": "六",
+    "simplified": "六",
+    "pinyin": "liù",
+    "english": "six",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_053",
+    "traditional": "媽",
+    "simplified": "妈",
+    "pinyin": "mā",
+    "english": "mother, mom",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_054",
+    "traditional": "嗎",
+    "simplified": "吗",
+    "pinyin": "ma",
+    "english": "question particle",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_055",
+    "traditional": "買",
+    "simplified": "买",
+    "pinyin": "mǎi",
+    "english": "to buy",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_056",
+    "traditional": "貓",
+    "simplified": "猫",
+    "pinyin": "māo",
+    "english": "cat",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_057",
+    "traditional": "沒",
+    "simplified": "没",
+    "pinyin": "méi",
+    "english": "not have",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_058",
+    "traditional": "米",
+    "simplified": "米",
+    "pinyin": "mǐ",
+    "english": "rice, meter",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_059",
+    "traditional": "明",
+    "simplified": "明",
+    "pinyin": "míng",
+    "english": "bright, clear",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_060",
+    "traditional": "名",
+    "simplified": "名",
+    "pinyin": "míng",
+    "english": "name",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_061",
+    "traditional": "哪",
+    "simplified": "哪",
+    "pinyin": "nǎ",
+    "english": "which",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_062",
+    "traditional": "那",
+    "simplified": "那",
+    "pinyin": "nà",
+    "english": "that",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_063",
+    "traditional": "南",
+    "simplified": "南",
+    "pinyin": "nán",
+    "english": "south",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_064",
+    "traditional": "你",
+    "simplified": "你",
+    "pinyin": "nǐ",
+    "english": "you",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_065",
+    "traditional": "年",
+    "simplified": "年",
+    "pinyin": "nián",
+    "english": "year",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_066",
+    "traditional": "女",
+    "simplified": "女",
+    "pinyin": "nǚ",
+    "english": "woman, female",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_067",
+    "traditional": "朋",
+    "simplified": "朋",
+    "pinyin": "péng",
+    "english": "friend",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_068",
+    "traditional": "漂",
+    "simplified": "漂",
+    "pinyin": "piào",
+    "english": "pretty, beautiful",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_069",
+    "traditional": "七",
+    "simplified": "七",
+    "pinyin": "qī",
+    "english": "seven",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_070",
+    "traditional": "錢",
+    "simplified": "钱",
+    "pinyin": "qián",
+    "english": "money",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_071",
+    "traditional": "前",
+    "simplified": "前",
+    "pinyin": "qián",
+    "english": "front, before",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_072",
+    "traditional": "請",
+    "simplified": "请",
+    "pinyin": "qǐng",
+    "english": "please, to invite",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_073",
+    "traditional": "去",
+    "simplified": "去",
+    "pinyin": "qù",
+    "english": "to go",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_074",
+    "traditional": "熱",
+    "simplified": "热",
+    "pinyin": "rè",
+    "english": "hot",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_075",
+    "traditional": "人",
+    "simplified": "人",
+    "pinyin": "rén",
+    "english": "person, people",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_076",
+    "traditional": "日",
+    "simplified": "日",
+    "pinyin": "rì",
+    "english": "day, sun",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_077",
+    "traditional": "三",
+    "simplified": "三",
+    "pinyin": "sān",
+    "english": "three",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_078",
+    "traditional": "上",
+    "simplified": "上",
+    "pinyin": "shàng",
+    "english": "up, above, on",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_079",
+    "traditional": "誰",
+    "simplified": "谁",
+    "pinyin": "shéi",
+    "english": "who",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_080",
+    "traditional": "什",
+    "simplified": "什",
+    "pinyin": "shén",
+    "english": "what",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_081",
+    "traditional": "生",
+    "simplified": "生",
+    "pinyin": "shēng",
+    "english": "to be born, life",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_082",
+    "traditional": "十",
+    "simplified": "十",
+    "pinyin": "shí",
+    "english": "ten",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_083",
+    "traditional": "時",
+    "simplified": "时",
+    "pinyin": "shí",
+    "english": "time, hour",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_084",
+    "traditional": "是",
+    "simplified": "是",
+    "pinyin": "shì",
+    "english": "to be",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_085",
+    "traditional": "書",
+    "simplified": "书",
+    "pinyin": "shū",
+    "english": "book",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_086",
+    "traditional": "水",
+    "simplified": "水",
+    "pinyin": "shuǐ",
+    "english": "water",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_087",
+    "traditional": "睡",
+    "simplified": "睡",
+    "pinyin": "shuì",
+    "english": "to sleep",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_088",
+    "traditional": "說",
+    "simplified": "说",
+    "pinyin": "shuō",
+    "english": "to speak, to say",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_089",
+    "traditional": "四",
+    "simplified": "四",
+    "pinyin": "sì",
+    "english": "four",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_090",
+    "traditional": "歲",
+    "simplified": "岁",
+    "pinyin": "suì",
+    "english": "years old",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_091",
+    "traditional": "他",
+    "simplified": "他",
+    "pinyin": "tā",
+    "english": "he, him",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_092",
+    "traditional": "她",
+    "simplified": "她",
+    "pinyin": "tā",
+    "english": "she, her",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_093",
+    "traditional": "太",
+    "simplified": "太",
+    "pinyin": "tài",
+    "english": "too, very",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_094",
+    "traditional": "天",
+    "simplified": "天",
+    "pinyin": "tiān",
+    "english": "day, sky",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_095",
+    "traditional": "聽",
+    "simplified": "听",
+    "pinyin": "tīng",
+    "english": "to listen",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_096",
+    "traditional": "同",
+    "simplified": "同",
+    "pinyin": "tóng",
+    "english": "same, together",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_097",
+    "traditional": "我",
+    "simplified": "我",
+    "pinyin": "wǒ",
+    "english": "I, me",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_098",
+    "traditional": "五",
+    "simplified": "五",
+    "pinyin": "wǔ",
+    "english": "five",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_099",
+    "traditional": "喜",
+    "simplified": "喜",
+    "pinyin": "xǐ",
+    "english": "happy, to like",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_100",
+    "traditional": "下",
+    "simplified": "下",
+    "pinyin": "xià",
+    "english": "down, below, under",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_101",
+    "traditional": "先",
+    "simplified": "先",
+    "pinyin": "xiān",
+    "english": "first, before",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_102",
+    "traditional": "現",
+    "simplified": "现",
+    "pinyin": "xiàn",
+    "english": "now, present",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_103",
+    "traditional": "想",
+    "simplified": "想",
+    "pinyin": "xiǎng",
+    "english": "to think, to want",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_104",
+    "traditional": "小",
+    "simplified": "小",
+    "pinyin": "xiǎo",
+    "english": "small, little",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_105",
+    "traditional": "些",
+    "simplified": "些",
+    "pinyin": "xiē",
+    "english": "some, a few",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_106",
+    "traditional": "寫",
+    "simplified": "写",
+    "pinyin": "xiě",
+    "english": "to write",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_107",
+    "traditional": "謝",
+    "simplified": "谢",
+    "pinyin": "xiè",
+    "english": "to thank",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_108",
+    "traditional": "星",
+    "simplified": "星",
+    "pinyin": "xīng",
+    "english": "star",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_109",
+    "traditional": "學",
+    "simplified": "学",
+    "pinyin": "xué",
+    "english": "to study, to learn",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_110",
+    "traditional": "一",
+    "simplified": "一",
+    "pinyin": "yī",
+    "english": "one",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_111",
+    "traditional": "衣",
+    "simplified": "衣",
+    "pinyin": "yī",
+    "english": "clothes",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_112",
+    "traditional": "醫",
+    "simplified": "医",
+    "pinyin": "yī",
+    "english": "doctor, medicine",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_113",
+    "traditional": "有",
+    "simplified": "有",
+    "pinyin": "yǒu",
+    "english": "to have",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_114",
+    "traditional": "友",
+    "simplified": "友",
+    "pinyin": "yǒu",
+    "english": "friend",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_115",
+    "traditional": "月",
+    "simplified": "月",
+    "pinyin": "yuè",
+    "english": "month, moon",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_116",
+    "traditional": "在",
+    "simplified": "在",
+    "pinyin": "zài",
+    "english": "at, in, on",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_117",
+    "traditional": "再",
+    "simplified": "再",
+    "pinyin": "zài",
+    "english": "again",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_118",
+    "traditional": "見",
+    "simplified": "见",
+    "pinyin": "jiàn",
+    "english": "to see, to meet",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_119",
+    "traditional": "怎",
+    "simplified": "怎",
+    "pinyin": "zěn",
+    "english": "how",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_120",
+    "traditional": "這",
+    "simplified": "这",
+    "pinyin": "zhè",
+    "english": "this",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_121",
+    "traditional": "中",
+    "simplified": "中",
+    "pinyin": "zhōng",
+    "english": "middle, center, China",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_122",
+    "traditional": "住",
+    "simplified": "住",
+    "pinyin": "zhù",
+    "english": "to live, to stay",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_123",
+    "traditional": "字",
+    "simplified": "字",
+    "pinyin": "zì",
+    "english": "character, word",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_124",
+    "traditional": "走",
+    "simplified": "走",
+    "pinyin": "zǒu",
+    "english": "to walk, to go",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_125",
+    "traditional": "最",
+    "simplified": "最",
+    "pinyin": "zuì",
+    "english": "most",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_126",
+    "traditional": "昨",
+    "simplified": "昨",
+    "pinyin": "zuó",
+    "english": "yesterday",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_127",
+    "traditional": "左",
+    "simplified": "左",
+    "pinyin": "zuǒ",
+    "english": "left",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_128",
+    "traditional": "做",
+    "simplified": "做",
+    "pinyin": "zuò",
+    "english": "to do, to make",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_129",
+    "traditional": "坐",
+    "simplified": "坐",
+    "pinyin": "zuò",
+    "english": "to sit",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_130",
+    "traditional": "作",
+    "simplified": "作",
+    "pinyin": "zuò",
+    "english": "to work, to do",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_131",
+    "traditional": "右",
+    "simplified": "右",
+    "pinyin": "yòu",
+    "english": "right",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_132",
+    "traditional": "語",
+    "simplified": "语",
+    "pinyin": "yǔ",
+    "english": "language",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_133",
+    "traditional": "雨",
+    "simplified": "雨",
+    "pinyin": "yǔ",
+    "english": "rain",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_134",
+    "traditional": "元",
+    "simplified": "元",
+    "pinyin": "yuán",
+    "english": "yuan (currency)",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_135",
+    "traditional": "遠",
+    "simplified": "远",
+    "pinyin": "yuǎn",
+    "english": "far",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_136",
+    "traditional": "院",
+    "simplified": "院",
+    "pinyin": "yuàn",
+    "english": "courtyard, hospital",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_137",
+    "traditional": "月",
+    "simplified": "月",
+    "pinyin": "yuè",
+    "english": "month, moon",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_138",
+    "traditional": "站",
+    "simplified": "站",
+    "pinyin": "zhàn",
+    "english": "to stand, station",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_139",
+    "traditional": "張",
+    "simplified": "张",
+    "pinyin": "zhāng",
+    "english": "measure word for flat objects",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_140",
+    "traditional": "找",
+    "simplified": "找",
+    "pinyin": "zhǎo",
+    "english": "to look for",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_141",
+    "traditional": "照",
+    "simplified": "照",
+    "pinyin": "zhào",
+    "english": "to shine, to take a photo",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_142",
+    "traditional": "知",
+    "simplified": "知",
+    "pinyin": "zhī",
+    "english": "to know",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_143",
+    "traditional": "只",
+    "simplified": "只",
+    "pinyin": "zhǐ",
+    "english": "only, just",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_144",
+    "traditional": "種",
+    "simplified": "种",
+    "pinyin": "zhǒng",
+    "english": "kind, type",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_145",
+    "traditional": "重",
+    "simplified": "重",
+    "pinyin": "zhòng",
+    "english": "heavy, important",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_146",
+    "traditional": "準",
+    "simplified": "准",
+    "pinyin": "zhǔn",
+    "english": "accurate, to allow",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_147",
+    "traditional": "桌",
+    "simplified": "桌",
+    "pinyin": "zhuō",
+    "english": "table, desk",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_148",
+    "traditional": "自",
+    "simplified": "自",
+    "pinyin": "zì",
+    "english": "self, from",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_149",
+    "traditional": "總",
+    "simplified": "总",
+    "pinyin": "zǒng",
+    "english": "always, total",
+    "level": 1,
+    "isCharacter": true
+  },
+  {
+    "id": "hsk1_150",
+    "traditional": "租",
+    "simplified": "租",
+    "pinyin": "zū",
+    "english": "to rent",
+    "level": 1,
+    "isCharacter": true
+  }
+]

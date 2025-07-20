@@ -1,0 +1,93 @@
+{
+  "人": {
+    "etymology": "Pictograma de una persona vista de perfil, mostrando las piernas caminando.",
+    "components": ["Radical: 人 (persona)"],
+    "history": "Uno de los caracteres más antiguos, aparece en huesos oraculares de la dinastía Shang (1600-1046 a.C.).",
+    "strokeOrder": ["Trazo descendente hacia la izquierda", "Trazo descendente hacia la derecha"],
+    "mnemonics": "Una persona caminando con las piernas abiertas"
+  },
+  "大": {
+    "etymology": "Pictograma de una persona con los brazos extendidos, indicando 'grande'.",
+    "components": ["Radical: 大 (grande)", "Forma básica sin componentes adicionales"],
+    "history": "Carácter pictográfico que representa el concepto de grandeza o tamaño.",
+    "strokeOrder": ["Trazo horizontal", "Trazo descendente hacia la izquierda", "Trazo descendente hacia la derecha"],
+    "mnemonics": "Una persona grande con brazos extendidos"
+  },
+  "小": {
+    "etymology": "Tres puntos que representan partículas pequeñas divididas.",
+    "components": ["Radical: 小 (pequeño)", "丨 (línea vertical)", "八 (ocho, representando división)"],
+    "history": "Evolucionó de tres puntos que simbolizaban cosas diminutas divididas.",
+    "strokeOrder": ["Punto central", "Punto izquierdo", "Punto derecho"],
+    "mnemonics": "Tres pequeñas partículas"
+  },
+  "水": {
+    "etymology": "Pictograma del agua fluyendo, con ondas y corrientes.",
+    "components": ["Radical: 水 (agua)", "Forma pictográfica del agua"],
+    "history": "Representa visualmente el flujo del agua en ríos y arroyos.",
+    "strokeOrder": ["Trazo vertical", "Trazo horizontal con curva", "Trazo izquierdo", "Trazo derecho"],
+    "mnemonics": "Agua fluyendo con ondas"
+  },
+  "火": {
+    "etymology": "Pictograma de llamas ardiendo hacia arriba.",
+    "components": ["Radical: 火 (fuego)", "Forma pictográfica de las llamas"],
+    "history": "Representa las llamas de una fogata o antorcha.",
+    "strokeOrder": ["Punto superior", "Trazo izquierdo", "Trazo derecho", "Punto inferior"],
+    "mnemonics": "Llamas ardiendo hacia el cielo"
+  },
+  "木": {
+    "etymology": "Pictograma de un árbol con tronco, ramas y raíces.",
+    "components": ["Radical: 木 (madera/árbol)"],
+    "history": "Representa un árbol completo desde las raíces hasta las ramas.",
+    "strokeOrder": ["Trazo horizontal", "Trazo vertical", "Trazo izquierdo", "Trazo derecho"],
+    "mnemonics": "Un árbol con tronco y ramas"
+  },
+  "土": {
+    "etymology": "Pictograma que representa la tierra o suelo.",
+    "components": ["Radical: 土 (tierra)"],
+    "history": "Simboliza la tierra fértil donde crecen las plantas.",
+    "strokeOrder": ["Trazo horizontal superior", "Trazo vertical", "Trazo horizontal inferior"],
+    "mnemonics": "Capas de tierra apiladas"
+  },
+  "一": {
+    "etymology": "Línea horizontal que representa el número uno y la unidad.",
+    "components": ["Radical: 一 (uno)", "Forma más simple"],
+    "history": "El carácter más simple, representa la unidad fundamental.",
+    "strokeOrder": ["Trazo horizontal de izquierda a derecha"],
+    "mnemonics": "Una línea = uno"
+  },
+  "二": {
+    "etymology": "Dos líneas horizontales que representan el número dos.",
+    "components": ["Radical: 二 (dos)", "Dos trazos horizontales"],
+    "history": "Representación directa del concepto de dualidad.",
+    "strokeOrder": ["Trazo horizontal superior", "Trazo horizontal inferior"],
+    "mnemonics": "Dos líneas = dos"
+  },
+  "三": {
+    "etymology": "Tres líneas horizontales que representan el número tres.",
+    "components": ["Radical: 三 (tres)", "Tres trazos horizontales"],
+    "history": "Representación directa del concepto de trinidad.",
+    "strokeOrder": ["Trazo horizontal superior", "Trazo horizontal medio", "Trazo horizontal inferior"],
+    "mnemonics": "Tres líneas = tres"
+  },
+  "口": {
+    "etymology": "Pictograma de una boca abierta vista de frente.",
+    "components": ["Radical: 口 (boca)"],
+    "history": "Representa la boca humana, usado en muchos caracteres relacionados con hablar.",
+    "strokeOrder": ["Trazo vertical izquierdo", "Trazo horizontal superior", "Trazo horizontal inferior"],
+    "mnemonics": "Una boca abierta cuadrada"
+  },
+  "日": {
+    "etymology": "Pictograma del sol con un punto en el centro.",
+    "components": ["Radical: 日 (sol/día)"],
+    "history": "Originalmente circular con un punto, evolucionó a forma rectangular.",
+    "strokeOrder": ["Trazo vertical izquierdo", "Trazo horizontal superior", "Trazo horizontal medio", "Trazo vertical derecho"],
+    "mnemonics": "El sol con su núcleo brillante"
+  },
+  "月": {
+    "etymology": "Pictograma de la luna creciente.",
+    "components": ["Radical: 月 (luna/mes)"],
+    "history": "Representa la forma de la luna creciente en el cielo.",
+    "strokeOrder": ["Trazo vertical izquierdo", "Trazo horizontal superior", "Trazo horizontal inferior", "Trazo vertical derecho"],
+    "mnemonics": "La luna creciente en el cielo"
+  }
+}
