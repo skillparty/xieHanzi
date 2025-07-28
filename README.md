@@ -4,15 +4,15 @@ An interactive web application for learning Chinese characters from HSK levels 1
 
 ## Features
 
-- 📚 HSK 1-3 Characters (600 total)
+-  HSK 1-3 Characters (600 total)
   - HSK 1: 150 characters
   - HSK 2: 150 characters  
   - HSK 3: 300 characters
-- ✍️ Stroke order practice
-- 🔊 Pronunciation with pinyin
-- 🌐 English translations
-- 📱 Responsive design (works on desktop and mobile)
-- 🚀 Deployable on GitHub Pages
+- ✍ Stroke order practice
+-  Pronunciation with pinyin
+-  English translations
+-  Responsive design (works on desktop and mobile)
+-  Deployable on GitHub Pages
 
 ## Technologies
 
